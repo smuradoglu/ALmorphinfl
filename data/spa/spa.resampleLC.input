@@ -1,0 +1,250 @@
+m a n t e n e r # V;POS;IMP;2;PL
+e n m e n d a r # V;NEG;IMP;2;PL
+c a l i g r a f i a r # V;NEG;IMP;3;SG
+e x c l u i r # V.CVB;PRS
+d e s t r u i r # V.CVB;PRS
+m a n t e n e r # V;IND;PRS;3;SG
+a s f a l t a r # V;COND;1;PL
+e m p a l m a r s e # V;COND;3;PL
+e m p a l m a r s e # V;SBJV;PST;3;SG;LGSPEC1
+g o l p e t e a r # V;IND;PST;1;SG;IPFV
+g a n a r s e # V;NFIN
+c o m p a c t a r # V;COND;2;SG
+l i m i t a r # V;COND;1;SG
+l i m i t a r # V;COND;3;PL
+e m p a l m a r s e # V;SBJV;PST;2;PL;LGSPEC1
+g o l p e t e a r # V;SBJV;PST;2;SG;LGSPEC1
+a r r e b a t a r # V;COND;3;SG
+a s f a l t a r # V;SBJV;FUT;1;SG
+g o l p e t e a r # V;POS;IMP;2;SG
+a s f a l t a r # V.PTCP;PST;FEM;SG
+a r r e b a t a r # V;IND;PST;1;SG;IPFV
+a r r e b a t a r # V;COND;2;SG
+o c u l t a r # V;COND;1;SG
+r a p a r # V;COND;3;SG
+a c o r t a r # V;COND;3;SG
+p a u p e r i z a r # V;IND;PST;3;PL;IPFV
+c o m p a c t a r # V;IND;PRS;3;SG
+a r r e b a t a r # V;COND;1;SG
+p a u p e r i z a r # V;SBJV;FUT;1;SG
+p a u p e r i z a r # V;SBJV;FUT;3;SG
+g o l p e t e a r # V;IND;PST;2;PL;IPFV
+c o m p a c t a r # V;IND;PST;1;PL;PFV
+a s f a l t a r # V;NFIN
+c o m p u l s a r # V;COND;1;PL
+p a u p e r i z a r # V;SBJV;PST;2;PL;LGSPEC1
+v o l a n t e a r # V;IND;PST;3;SG;IPFV
+a r r e b a t a r # V;COND;3;PL
+c o m p a c t a r # V;IND;PRS;1;PL
+a m o j a m a r # V;IND;PST;2;SG;IPFV
+v o l a n t e a r # V;IND;PST;1;SG;IPFV
+a m o l d a r # V;IND;PST;3;SG;IPFV
+v o l a n t e a r # V;COND;1;SG
+a r r e b a t a r # V;SBJV;PST;3;SG;LGSPEC1
+p r o f a n a r # V;IND;PST;1;SG;IPFV
+e m b o t a r # V;IND;PST;2;SG;IPFV
+a m o l d a r # V;COND;1;SG
+v o l a n t e a r # V;COND;2;SG
+p a u p e r i z a r # V;SBJV;FUT;2;SG
+a c o r t a r # V;COND;1;PL
+e m p a l m a r s e # V.PTCP;PST;MASC;PL
+d e s n a c e r # V.PTCP;PST;MASC;PL
+e m p a l m a r s e # V;IND;PRS;3;PL
+r a p a r # V;COND;1;SG
+p a u p e r i z a r # V;SBJV;FUT;3;PL
+p a u p e r i z a r # V;IND;PRS;1;PL
+p r o f a n a r # V;COND;1;SG
+a c o r t a r # V;IND;PST;3;SG;IPFV
+p r o f a n a r # V;COND;3;PL
+e m p a l m a r s e # V;POS;IMP;2;PL
+c o m p a c t a r # V.PTCP;PST;FEM;SG
+o c u l t a r # V;SBJV;PST;1;SG;LGSPEC1
+r a p a r # V;COND;3;PL
+p a u p e r i z a r # V;IND;PRS;3;PL
+c o m p u l s a r # V;SBJV;PST;1;SG;LGSPEC1
+c o m p a c t a r # V;IND;PRS;2;SG
+a m o j a m a r # V;IND;PST;2;PL;IPFV
+e m b o t a r # V;SBJV;PST;1;SG;LGSPEC1
+e n c a l a b o z a r # V;COND;1;PL
+m o n e t a r i z a r # V;COND;3;SG
+e m b o t a r # V;COND;2;PL
+a s f a l t a r # V;POS;IMP;2;PL
+e n t r e l a z a r # V;IND;PST;3;SG;IPFV
+e x p u g n a r # V;COND;3;SG
+a r r e b a t a r # V;IND;PRS;3;SG
+a r r e b a t a r # V;IND;PST;1;PL;PFV
+e n r i p i a r # V;IND;PST;1;SG;IPFV
+v o l a n t e a r # V;SBJV;PST;2;SG;LGSPEC1
+e n c a l a b o z a r # V;IND;PST;1;SG;IPFV
+a t u r a r # V;IND;PST;3;SG;IPFV
+v o l a n t e a r # V;IND;PST;3;PL;IPFV
+a c o r t a r # V;COND;2;PL
+p r o f a n a r # V;SBJV;PST;2;SG;LGSPEC1
+a f i a n z a r # V;SBJV;PST;2;PL;LGSPEC1
+l i m i t a r # V;SBJV;PST;2;PL;LGSPEC1
+a m o l d a r # V;IND;PST;3;PL;IPFV
+a m o l d a r # V;SBJV;PST;3;SG;LGSPEC1
+c o m p u l s a r # V;SBJV;PST;2;PL;LGSPEC1
+t a r a r # V;IND;PST;1;SG;IPFV
+a i r e a r # V;COND;1;PL
+t r u n c a r # V;COND;3;SG
+e m p a l m a r s e # V;SBJV;PST;2;SG
+a i r e a r # V;COND;1;SG
+e n t r e l a z a r # V;COND;2;PL
+a g u s a n a r # V;COND;2;SG
+m o n e t a r i z a r # V;COND;1;SG
+m o n e t a r i z a r # V;COND;2;SG
+e m p a l m a r s e # V;SBJV;PRS;1;PL
+p r o f a n a r # V;SBJV;PST;1;SG;LGSPEC1
+m a l e f i c i a r # V;COND;2;SG
+a r r e b a t a r # V;IND;FUT;1;PL
+p r a c t i c a r # V;IND;PST;1;SG;IPFV
+a t u r a r # V;COND;3;PL
+s u a v i z a r # V;COND;3;SG
+b l a s o n a r # V;COND;2;SG
+e x p u g n a r # V;COND;3;PL
+a s f a l t a r # V;SBJV;PRS;1;PL
+a r r e b a t a r # V;SBJV;FUT;2;SG
+m a l e f i c i a r # V;COND;1;SG
+i n d u c i r # V.CVB;PRS
+a c o r t a r # V;IND;PST;3;PL;IPFV
+g o l p e t e a r # V;SBJV;PST;3;SG
+c o n s t a r # V;COND;1;PL
+e m p a l m a r s e # V;IND;PST;1;PL;IPFV
+o c u l t a r # V;POS;IMP;2;SG
+a s f a l t a r # V;SBJV;PST;2;SG
+g o l p e t e a r # V;POS;IMP;3;PL
+m o n e t a r i z a r # V;IND;PST;2;SG;IPFV
+v o l a n t e a r # V;SBJV;PST;3;PL;LGSPEC1
+p a u p e r i z a r # V;SBJV;PST;3;SG
+a r r e b a t a r # V;IND;PRS;2;SG
+u r b a n i z a r # V;IND;PST;3;SG;IPFV
+c a l i g r a f i a r # V;COND;2;PL
+e m p a l m a r s e # V;SBJV;PRS;1;SG
+t r u n c a r # V;COND;1;SG
+p r a c t i c a r # V;COND;2;PL
+s a t i n a r # V;IND;PST;1;SG;IPFV
+v o l a n t e a r # V;IND;FUT;1;PL
+l i m i t a r # V;NFIN
+a f i a n z a r # V.PTCP;PST;FEM;SG
+e n t r e l a z a r # V;IND;PST;2;PL;IPFV
+e x p u g n a r # V;COND;2;PL
+p r a c t i c a r # V;IND;PST;2;SG;IPFV
+a m o j a m a r # V;SBJV;FUT;3;SG
+v o l a n t e a r # V;SBJV;FUT;2;PL
+a f i a n z a r # V;SBJV;FUT;3;PL
+b l a s o n a r # V;COND;2;PL
+m a l e f i c i a r # V;COND;3;PL
+e m b o t a r # V;POS;IMP;2;SG
+a m o j a m a r # V;SBJV;PST;3;PL;LGSPEC1
+e m b o t a r # V;SBJV;PST;3;PL;LGSPEC1
+e m p a l m a r s e # V;IND;FUT;1;SG
+e m b o t a r # V;SBJV;FUT;3;SG
+c o m p e n d i a r # V;COND;3;SG
+r a p a r # V;IND;PRS;3;SG
+g o l p e t e a r # V.PTCP;PST;FEM;PL
+a m o j a m a r # V;SBJV;FUT;2;SG
+c o m p a c t a r # V;SBJV;PST;3;SG
+c o m p u l s a r # V;IND;PRS;2;SG
+a r r e b a t a r # V;NFIN
+e n r i p i a r # V;SBJV;PST;2;SG;LGSPEC1
+r e p a r t i r # V;IND;PST;2;SG;IPFV
+p r o f a n a r # V;SBJV;PST;3;PL;LGSPEC1
+a t u r a r # V;COND;2;PL
+e n r i p i a r # V;IND;PST;2;PL;IPFV
+m a l e f i c i a r # V;SBJV;PST;3;SG;LGSPEC1
+a f i a n z a r # V;IND;PRS;2;SG
+c a l i g r a f i a r # V;SBJV;PST;3;SG;LGSPEC1
+a s f a l t a r # V;IND;FUT;2;SG
+a m o j a m a r # V;SBJV;FUT;2;PL
+t r u n c a r # V;COND;2;PL
+e n r i p i a r # V;SBJV;PST;1;SG;LGSPEC1
+t a r a r # V;COND;3;PL
+e n c a l a b o z a r # V;IND;FUT;1;PL
+p r o f a n a r # V;SBJV;FUT;3;SG
+e m b o t a r # V.PTCP;PST;FEM;SG
+r a p a r # V;IND;PST;1;PL;PFV
+m u e s t r e a r # V;COND;1;SG
+h e l e n i z a r # V;IND;PST;2;SG;IPFV
+e x p u g n a r # V;SBJV;PST;1;SG;LGSPEC1
+a t u r a r # V;SBJV;PST;3;SG;LGSPEC1
+c u m p l i r # V;COND;2;SG
+e n c a l a b o z a r # V;SBJV;FUT;2;SG
+a s f a l t a r # V;IND;PST;3;SG;PFV
+e n t r e l a z a r # V;SBJV;FUT;3;PL
+c a l i g r a f i a r # V;SBJV;PST;2;PL;LGSPEC1
+a i r e a r # V;SBJV;PST;1;SG;LGSPEC1
+a g u s a n a r # V;SBJV;PST;3;SG;LGSPEC1
+a p a c i g u a r s e # V;COND;2;SG
+a f i a n z a r # V.PTCP;PST;MASC;PL
+a c o r t a r # V;IND;FUT;1;PL
+l i m i t a r # V;IND;PRS;3;PL
+c u m p l i r # V;SBJV;PRS;1;SG
+c o m p a c t a r # V;IND;FUT;2;SG
+e x p u g n a r # V;SBJV;PST;2;PL;LGSPEC1
+a m o l d a r # V;IND;FUT;1;PL
+m o n e t a r i z a r # V;IND;PRS;1;PL
+a c o r t a r # V;IND;PRS;3;SG
+c o m p a c t a r # V;SBJV;PST;3;PL
+a g u s a n a r # V;SBJV;PST;1;SG;LGSPEC1
+m o n e t a r i z a r # V;SBJV;FUT;2;SG
+a t u r a r # V;IND;PST;2;PL;IPFV
+m u e s t r e a r # V;COND;2;PL
+e m b o t a r # V;IND;PST;3;PL;PFV
+p r o y e c t a r # V;COND;2;PL
+c o m p e n d i a r # V;COND;2;PL
+h e l e n i z a r # V;SBJV;FUT;3;SG
+m a l e f i c i a r # V;SBJV;FUT;2;PL
+p r o s p e r a r # V;IND;PST;1;PL;PFV
+g o l p e t e a r # V;IND;PST;2;PL;PFV
+v o l a n t e a r # V;NFIN
+a s f a l t a r # V;IND;PRS;1;SG
+m e n s a j e a r # V;POS;IMP;1;PL
+p r o s p e r a r # V;SBJV;PST;2;PL;LGSPEC1
+r a p a r # V;IND;PRS;1;PL
+a r r e b a t a r # V.PTCP;PST;MASC;PL
+e n c e s t a r # V;IND;PST;3;SG;IPFV
+a t u r a r # V;IND;PST;1;PL;PFV
+e x p u g n a r # V;IND;FUT;1;PL
+a p a c i g u a r s e # V;COND;3;PL
+u r b a n i z a r # V;SBJV;PST;3;PL;LGSPEC1
+a s f a l t a r # V;SBJV;PRS;3;PL
+c u m p l i r # V;IND;PRS;1;PL
+m u e s t r e a r # V;IND;PST;2;PL;IPFV
+m a l e f i c i a r # V;IND;PST;1;PL;PFV
+i n m o v i l i z a r # V;IND;PST;3;SG;IPFV
+m u e s t r e a r # V;SBJV;PST;1;SG;LGSPEC1
+p r a c t i c a r # V;IND;FUT;1;PL
+r a p a r # V;SBJV;FUT;1;SG
+e x p u g n a r # V;IND;PRS;1;PL
+p a u p e r i z a r # V;SBJV;FUT;1;PL
+a p a c i g u a r s e # V;COND;2;PL
+p a u p e r i z a r # V;IND;PRS;1;SG
+s u a v i z a r # V;IND;PST;1;PL;PFV
+t r u n c a r # V;IND;PST;2;PL;IPFV
+e n t r e l a z a r # V;IND;PRS;3;PL
+m o r t i f i c a r # V;COND;2;SG
+p r o s p e r a r # V;IND;PRS;1;PL
+c o m p a c t a r # V;IND;PST;2;SG;PFV
+c o n s t a r # V;SBJV;PST;2;SG;LGSPEC1
+e x p u g n a r # V;SBJV;FUT;3;SG
+a m o j a m a r # V;IND;PRS;3;PL
+c o n s t a r # V;IND;PST;1;PL;PFV
+u r b a n i z a r # V;IND;PST;3;PL;PFV
+c a l i g r a f i a r # V;IND;PST;1;PL;PFV
+v o l a n t e a r # V;SBJV;PST;3;SG
+a t u r a r # V;IND;FUT;1;PL
+m a l e f i c i a r # V;IND;PRS;3;SG
+a s f a l t a r # V;POS;IMP;3;PL
+v o l a n t e a r # V.PTCP;PST;MASC;PL
+c o m p e n d i a r # V;SBJV;PST;2;SG;LGSPEC1
+c o n s t a r # V;IND;PST;2;PL;IPFV
+l i m i t a r # V;IND;PST;1;PL;IPFV
+a c o r t a r # V;IND;PST;3;PL;PFV
+e n c a l a b o z a r # V.PTCP;PST;FEM;PL
+m e n s a j e a r # V;COND;1;PL
+l e n g ü e t e a r # V;COND;1;PL
+c o m p e n d i a r # V;IND;PST;2;PL;IPFV
+m o r t i f i c a r # V;COND;2;PL
+a m o l d a r # V;IND;PST;3;PL;PFV
+l i m i t a r # V;SBJV;PST;3;SG

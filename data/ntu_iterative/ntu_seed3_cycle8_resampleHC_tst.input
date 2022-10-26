@@ -1,0 +1,750 @@
+t q m c p e k r # IRR;GDIR.IN
+t q m c p e k r # NEG;NMLZ;INCH*;3AUGᵢ;NEG
+t q m c p e k r # RL;TRNS;2AUGᵢ
+t q m c p e k r # IRR;3MINᵢ
+t q m c p e k r # NMLZ;NMLZ.POSS;1MINᵢᵢ;3MINᵢ
+n z a b r t z n g r # UDIR.TOWARD;1AUGᵢ
+m z l i   k c # DEM4;SPEC
+m z l i   k c # DEM4
+x l r b z l e # 3MINᵢ
+n z w z - z l w z - k r g r # NMLZ;3AUGᵢ
+n z m c t x p w z # RL;INCH*;1AUGᵢ
+n a d w a p e k r # INTS;.VERY;GDIR.IN;1MINᵢ
+n a d w a p e k r # GDIR.UP;PDIR.HITHER;1AUGᵢᵢ
+n a r p n z ' # IRR;DETR
+m w i t x k r # INTS;.VERY;1AUGᵢ
+m w i t x k r # RL;INTS;.VERY;INCH*;3MINᵢ
+m w i t x k r # RL+3AUG;GDIR.OUT;APP;PDIR.HITHER;3AUGᵢ
+m w i t x k r # RL+3AUG;GDIR.OUT;APP;PDIR.HITHER
+n a m w i # RL;INTS;.VERY;INCH*;3MINᵢ
+t z k u k i r p e l r # RL+3AUG;APP;3AUGᵢᵢ
+p r o t x k r # NMLZ;NMLZ.POSS;1MINᵢᵢ
+n z a b r t z n g r # NMLZ;1AUGᵢ
+v z m i o l e # RL;INCH*;1MINᵢ
+n z y c m n e - k r b o # RL+3AUG;GDIR.IN;INCH*;APP;3AUGᵢᵢ
+n z y c m n e - k r b o # RL+3AUG;APP;INCH*;PDIR.HITHER;3AUGᵢ
+n z y c m n e - k r b o # INCH*
+n z m c p x # APP;1AUGᵢᵢ;3MINᵢᵢ
+m c l x n g # RL;INCH*;1AUGᵢ
+n z m c t r # APP;1AUGᵢᵢ;3MINᵢᵢ
+x l r k r l e # 1AUGᵢ;3MINᵢᵢ
+a b r t z l v z k r # RL;APP;1AUGᵢᵢ
+t r k r l z w x u # PDIR.HITHER;3MINᵢ
+t q k q l e p e b z l e # RL;INCH*;PDIR.THITHER;3MINᵢ
+n z v z # RL;INCH*;1MINᵢ
+d w a t x t r x # NMLZ;GDIR.IN;NMLZ.POSS;1AUGᵢᵢ
+n z i k l a p w z # PASS
+t q a c l v e b o # RL;.BZ(DIR).=O(1MIN).=>..BO
+n z o t r n g r # COM;INTS;.VERY;GDIR.OUT;PDIR.THITHER;3MINᵢ
+m n c t i k r # RL;INCH*;1AUGᵢ
+t z a m c t i - n g r d e # RL+3AUG;TRNS;APP;3MINᵢᵢ
+n z m c k r # APP;1AUGᵢᵢ;3MINᵢᵢ
+t q m c p e k r # APP;1AUGᵢᵢ
+l x e g r # 3MINᵢᵢ
+n z m c t x p w z # APP;1AUGᵢᵢ;3MINᵢᵢ
+n z v z - k r m # 3AUGᵢ;3AUGᵢ
+t q v z p e x # RL;INCH*;1MINᵢ
+n a v e x # 1MINᵢ
+n z y a p w x - k r d r # IRR;TRNS;.BZ(DIR).=O(1MIN).=>..BO
+n z y a p w x - k r d r # RL+3AUG;TRNS;INCH*;PDIR.THITHER;3AUGᵢ
+n a y c t i p x m # RL;GDIR.DOWN;APP
+n a y c t i p x m # INTS;.VERY;GDIR.DOWN;INCH*;3MINᵢ
+n a y c t i p x m # GDIR.IN;INCH*;APP
+n a y c t i p x m # INTS;.VERY;PDIR.THITHER
+n a y c t i p x m # RL;APP
+n z d w a o n g r # MNR;GDIR.UP;APP;PDIR.HITHER;1AUGᵢᵢ
+t q m c p e k r # PDIR.THITHER;1AUGᵢ
+t q t o p w z b e - n g r n e # SUBR;3AUGᵢ
+t z m w i - n g r d r # RL;INTS;.VERY;INCH*;3MINᵢ
+t z m w i - n g r d r # IRR
+t r n z y a g o x - k r g r u # RL;INCH*;3MINᵢ
+n z w z t r n g # NEG;RL;INCH*;NEG
+t q r m c t i p e k r # APP;1AUGᵢᵢ;3MINᵢᵢ
+t r n z m n e t i u # NEG;PASS;NEG
+t r n z m n e t i u # PASS;TRNS
+m w i t x k r # RL+3AUG;INCH*;3AUGᵢ
+k c m a n g # DEM4
+k c m a n g # DEM4;SPEC
+o b q o b z # PDIR.THITHER;1AUGᵢ
+t r n a n i b q l e u # NMLZ;DETR;DER
+k x l r p r # NEG;1AUGᵢ;NEG
+n z v z - k r m # PDIR.THITHER
+t q m w i - n g r g r # IRR
+t q m w i - n g r g r # INTS;.VERY;1AUGᵢ
+n z y c m n e k r b z # INCH*
+n z y c m n e k r b z # RL+3AUG;GDIR.IN;INCH*;APP;3AUGᵢᵢ
+n z y c m n e k r b z # RL+3AUG;APP;INCH*;PDIR.HITHER;3AUGᵢ
+r d r n g # GEN1A;3AUGᵢᵢ;PL
+r y a p w x - z v z k r # DETR;HAB;1AUGᵢ
+n z m e l z - k r m e # PDIR.HITHER;1MINᵢ
+n z x l r b z l r l e # PDIR.HITHER;3MINᵢ
+t q a m z n r p e l e # APP
+n z o b q p x b z # GDIR.OUT;1AUGᵢ
+n z a n g i o # NMLZ;NMLZ.POSS;12AUGᵢᵢ
+v o t r p z k r # GDIR.IN;PDIR.THITHER;1AUGᵢ
+n z b z t i - l x b l r n g # IRR;GDIR.IN;12MINᵢ
+t q m c p e k r # NEG;3MINᵢ;NEG
+n z b z t i - l x b l r n g # 3AUGᵢ;CAUS;3AUGᵢ
+n z b z t i - l x b l r n g # IRR;APP;2MINᵢ
+n z b z t i - l x b l r n g # TRNS;INCH*;3MINᵢᵢ
+t z l v c - a t e n g # RL+3AUG;GDIR.UP;INCH*;APP;3AUGᵢᵢ
+t z l v c - a t e n g # RL+3AUG;AFTERWARD;3AUGᵢ
+y r k r t x o # RL;INCH*;APP
+y r k r t x o # INTS;.VERY;GDIR.DOWN;3MINᵢ
+y r k r t x o # RL;GDIR.OUT;1AUGᵢ
+d r k a ' n g # PL
+t z p n z - l z b q n g r # PASS
+n z b o m - k r d e # IRR;DETR;INCH*;PL
+n a y a g o x n g # IRR;3AUGᵢ
+t q r t w a y z b z # RL;PDIR.THITHER
+k r l z m g r # NMLZ;3AUGᵢ
+y r k r p x b z l e # GDIR.OUT;PDIR.THITHER;3MINᵢ
+t q y a p w x t i p e m l e # RL+3AUG;TRNS;INCH*;PDIR.THITHER;3AUGᵢ
+t q y a p w x t i p e m l e # IRR;TRNS;.BZ(DIR).=O(1MIN).=>..BO
+n z d w a o n g r # UDIR.AWAY;GDIR.OUT;PDIR.HITHER;1AUGᵢᵢ
+n z d w a o n g r # INTS;.VERY;GDIR.IN;1MINᵢ
+n z d w a o n g r # GDIR.UP;PDIR.HITHER;1AUGᵢᵢ
+d w a t x t r x # MNR;GDIR.UP;APP;PDIR.HITHER;1AUGᵢᵢ
+b o o n g r # GDIR.DOWN;APP
+n z l z t r - n g r d e # NMLZ;DETR;NMLZ.POSS;1AUGᵢᵢ
+v o m l e # PDIR.HITHER;3MINᵢ
+k x t o p w z # RL;DUR;APP;1MINᵢᵢ
+k x t o p w z # GDIR.IN
+m n q t i p e l e # 3AUGᵢ;INTS;.VERY;3AUGᵢ
+m n q t i p e l e # NEG;NEG
+t q m c p e k r # PDIR.THITHER
+n a r t a n g r t i k r # IRR;TRNS;1AUGᵢ
+t z r l x n g i t i n g # RL+3AUG;DETR;3AUGᵢ
+n a y a p w x t i b o # IRR;TRNS;.BZ(DIR).=O(1MIN).=>..BO
+d w a l z m g r # INTS;.VERY;GDIR.IN;1MINᵢ
+d w a l z m g r # UDIR.AWAY;GDIR.OUT;PDIR.HITHER;1AUGᵢᵢ
+n z t q n g # SUBR
+y z l u m g r # RL+3AUG;INCH*;PDIR.HITHER;3AUGᵢ
+n z l z t r - n g r d e # GDIR.DOWN;1AUGᵢ
+n z l z t r - n g r d e # NMLZ
+n z l z t r - n g r d e # NMLZ;DETR;NMLZ.POSS;PDIR.THITHER;3MINᵢ
+n z l z t r - n g r d e # RL+3AUG;GDIR.IN
+n z l z t r - n g r d e # PASS;TRNS;3AUGᵢᵢ
+y r l q t x - m o u x # INTS;.VERY;1MINᵢ
+n a k a b o # IRR;PDIR.HITHER;3MINᵢ
+n a k a b o # NMLZ;NMLZ.POSS;PDIR.THITHER;3MINᵢ
+n a k a b o # IRR;PDIR.THITHER;1AUGᵢ
+n a k a b o # 3AUGᵢ;GDIR.UP;PDIR.HITHER;3AUGᵢ
+n a k a b o # PASS;DETR;PDIR.THITHER
+n a k a b o # IRR;.BZ(DIR).=O(1MIN).=>..BO
+n a k a b o # NMLZ;GDIR.OUT;NMLZ.POSS;PDIR.THITHER;3MINᵢ
+n a k a b o # DETR;INTS;.VERY;PDIR.HITHER
+n a k a b o # GDIR.DOWN;PDIR.HITHER;2AUGᵢ
+t q r p n a p e - n g r m l e # 3AUGᵢ;3AUGᵢ
+n z y c m n e - k r m # RL+3AUG;GDIR.IN;INCH*;APP;3AUGᵢᵢ
+n z y c m n e - k r m # INCH*
+n a b z d r # 3AUGᵢᵢ
+t z l v c l z p e - n g r d r # RL+3AUG;AFTERWARD;3AUGᵢ
+t z l v c l z p e - n g r d r # RL+3AUG;GDIR.UP;INCH*;APP;3AUGᵢᵢ
+y r l q t x b o # INTS;.VERY;1MINᵢ
+n z p r p x n g r # RL+3AUG;GDIR.DOWN;INCH*;3AUGᵢ
+t z x l r o p e l r # 1AUGᵢ;3MINᵢᵢ
+r y a p w x - z v z k r # IRR;TRNS;.BZ(DIR).=O(1MIN).=>..BO
+y z l u m l e # PDIR.HITHER;1MINᵢ
+d r t q n g e # 3AUGᵢᵢ
+d r t q n g e # 3MINᵢᵢ
+n a k a t x b z l e # 3AUGᵢ;GDIR.UP;PDIR.HITHER;3AUGᵢ
+n a k a t x b z l e # DETR;GDIR.IN;PDIR.HITHER
+n z p r p x - k r d r # GDIR.DOWN;INTS;.VERY;1AUGᵢ
+n z p r p x - k r d r # RL;INCH*;PDIR.THITHER;1AUGᵢ
+m z l w e d e n g # PL
+m z l w e d e n g # 3MINᵢᵢ;PL
+n z o t r n g r # NMLZ;GDIR.UP;NMLZ.POSS;PDIR.HITHER;3MINᵢ
+n a k a b o # NMLZ;NMLZ.POSS;3MINᵢᵢ
+t q a c l v e b o # 3MINᵢ
+t q m z n r p e # IRR;INCH*;3MINᵢ
+t q m z n r p e # RL;ALL;INCH*;3MINᵢ
+k r l a # RPRN2;DEM1
+n z y r b z # PDIR.HITHER
+n a m n c n e - n g r g r # NMLZ;GDIR.UP;PDIR.THITHER
+n a m n c n e - n g r g r # 3AUGᵢ;GDIR.UP;PDIR.THITHER;3AUGᵢ
+t q m w a p e # NMLZ;APP
+n z p n a n g # 3AUGᵢ;3AUGᵢ
+t q o t i - a t e m # RL;AFTERWARD;PDIR.HITHER
+t q o t i - a t e m # RL;PDIR.HITHER;3MINᵢ
+n z b z - k r g r # 3AUGᵢ;3AUGᵢ
+n z l x n g i t i - k r g r # RL;AFTERWARD;1MINᵢ
+n z p n a n g # NMLZ;TRNS;NMLZ.POSS;PDIR.THITHER;2AUGᵢᵢ
+w x l i k i t x p x p n z # RL;INTS;.VERY;GDIR.OUT
+w x l i k i t x p x p n z # INTS;.VERY;GDIR.OUT;CMPL
+t q r p w a ' - n g r b z m e # APP;PDIR.THITHER
+t q r p w a ' - n g r b z m e # APP;.BZ(DIR).=O(1MIN).=>..BO
+t q r p w a ' - n g r b z m e # NMLZ;APP;PDIR.THITHER;3AUGᵢ
+n z g l q o l r # DETR;1AUGᵢ
+n z g l q o l r # IRR;CAUS;INCH*;1AUGᵢ
+n z g l q o l r # NMLZ;GDIR.DOWN;3AUGᵢ
+n z g l q o l r # IRR;CAUS;PDIR.THITHER;3AUGᵢ
+n z p r p x n g r # RL+3AUG;INCH*;3AUGᵢ
+n z p r p x n g r # RL+3AUG;INCH*;3AUGᵢ
+m w x l r - n g r g r # RL+3AUG;3AUGᵢ
+t r n z k q l u - k r p e p w q g r u # SUBR
+t r s u k a # RL;CAUS;3MINᵢ
+n z v z - k r m # 3AUGᵢ;GDIR.UP;PDIR.HITHER;3AUGᵢ
+n z v z - k r m # RL;GDIR.DOWN;INCH*;3MINᵢ
+n z v z - k r m # RL;DISTR;HAB;1AUGᵢ
+n z v z - k r m # RL+3AUG;UDIR.PATH;GDIR.OUT;3AUGᵢ
+n z v z - k r m # FOLLOW;PDIR.HITHER
+n z v z - k r m # IRR;FOLLOW;3MINᵢ
+n z v z - k r m # NMLZ;COM;NMLZ.POSS;1AUGᵢᵢ
+n z v z - k r m # IRR;PDIR.HITHER;1AUGᵢᵢ
+n z v z - k r m # APP;PDIR.THITHER;1AUGᵢ
+n z v z - k r m # RL+3AUG;AFTERWARD;3AUGᵢ
+n z v z - k r m # RL;UDIR.PATH;3MINᵢ
+n z v z - k r m # RL;DETR;COM;ONLY
+n z v z - k r m # NEG;1AUGᵢ;NEG
+n z v z - k r m # RL;DUR
+n z v z - k r m # .BZ(DIR).=O(1MIN).=>..BO
+n z v z - k r m # INTS;.VERY;INCH*;APP;3MINᵢᵢ
+n z v z - k r m # NMLZ;PROGRESSIVE;NMLZ.POSS;1AUGᵢᵢ
+n z v z - k r m # RL;UDIR.PATH;GDIR.OUT;1AUGᵢ
+n z v z - k r m # NEG;NEG
+n z v z - k r m # RL;GDIR.UP;INCH*;APP;PDIR.HITHER;1AUGᵢᵢ
+n z v z - k r m # HAB;1AUGᵢ
+n z v z - k r m # NMLZ;NMLZ.POSS;PDIR.HITHER;1AUGᵢᵢ
+n z v z - k r m # 3MINᵢᵢ
+n z v z - k r m # RL;APP;1MINᵢᵢ
+n z v z - k r m # NMLZ;INTENSIFIER;NMLZ.POSS;1AUGᵢᵢ
+n z v z - k r m # RL;GDIR.DOWN;INCH*;12MINᵢ
+n z v z - k r m # IRR;.BZ(DIR).=O(1MIN).=>..BO
+n z v z - k r m # RL;GDIR.DOWN;INCH*;1AUGᵢ
+n z v z - k r m # RL;REFL;.RECIP;APP;3MINᵢᵢ
+n z v z - k r m # RL;INCH*;12AUGᵢ
+n z v z - k r m # 3AUGᵢ;UDIR.PATH;GDIR.DOWN;INCH*;3AUGᵢ
+n z v z - k r m # IRR;3MINᵢ
+n z v z - k r m # RL;INCH*;.BZ(DIR).=O(1MIN).=>..BO
+n z v z - k r m # INCH*;2MINᵢᵢ*
+n z v z - k r m # NMLZ;NMLZ.POSS;PDIR.THITHER;3AUGᵢ
+n z v z - k r m # RL;INTS;.VERY;INCH*
+n z v z - k r m # IRR;PDIR.THITHER;1AUGᵢ
+n z v z - k r m # RL;INTENSIFIER
+n z v z - k r m # GDIR.OUT;PDIR.HITHER;3MINᵢ
+n z v z - k r m # RL;INCH*;PDIR.THITHER;1AUGᵢ
+n z v z - k r m # RL;UDIR.PATH;GDIR.OUT
+t q a s u p e b z # RL;CAUS;INCH*;PDIR.THITHER;3MINᵢ
+d w a - r b r l z - n g r m q g r # INTS;.VERY;GDIR.IN;1MINᵢ
+d w a - r b r l z - n g r m q g r # UDIR.AWAY;GDIR.OUT;PDIR.HITHER;1AUGᵢᵢ
+t r k q o p q l e u # INCH*;3MINᵢ
+t r k q o p q l e u # NEG;GDIR.DOWN;PDIR.HITHER;3MINᵢ;NEG
+t z a n g c p e l r # RL+3AUG;CAUS;INCH*;3AUGᵢ
+t z a n g c p e l r # CAUS;TRNS;1AUGᵢ
+m n c t i k r # 3AUGᵢ;GDIR.UP;PDIR.THITHER;3AUGᵢ
+x l r m l e # PDIR.THITHER;3MINᵢ
+x l r m l e # 1AUGᵢ;3MINᵢᵢ
+x l r m l e # .BZ(DIR).=O(1MIN).=>..BO;3MINᵢᵢ
+t q a m z n r p e l e # RL;INCH*;3MINᵢ
+t q m r b r # GDIR.UP;PDIR.HITHER
+t q m z n r p e # APP
+n z p w x n g # RSTR
+w z t r p o # NEG;RL;INCH*;NEG
+w z t r p o # NMLZ;TRNS;NMLZ.POSS;PDIR.THITHER;3MINᵢ
+n z x l r b z l r l e # 1AUGᵢ;3MINᵢᵢ
+t q b r l x - k z p e # RL;INCH*
+y r w i t x - k z l e # INTS;.VERY;GDIR.OUT;3MINᵢ;PL
+n z v z - k r m # PDIR.HITHER;1AUGᵢᵢ
+r b l x t x p e l e # RL;INTS;.VERY;INCH*
+r b l x t x p e l e # INTS;.VERY;INCH*;3MINᵢ
+r b l x t x p e l e # RL;TRNS;3MINᵢ
+t z l v c m l r # RL+3AUG;AFTERWARD;3AUGᵢ
+t q w a i p e x # RL;INCH*;1MINᵢ
+t q n g r l r p x p e m # RL;GDIR.UP;INCH*
+t q n g r l r p x p e m # COM;PDIR.HITHER;3MINᵢ
+t q n g r l r p x p e m # RL;GDIR.OUT;INCH*;PDIR.HITHER;3MINᵢ
+k r k a ' - l e - b l r k u # 3MINᵢ;12AUGᵢ
+k x b q n g # PL
+k x b q n g # 1AUGᵢᵢ;PL
+n a a g l q p e k r # IRR;CAUS;PDIR.THITHER;3AUGᵢ
+n a a g l q p e k r # IRR;CAUS;2AUGᵢ
+n a a g l q p e k r # NMLZ;GDIR.DOWN;3AUGᵢ
+n a a g l q p e k r # IRR;CAUS;INCH*;1AUGᵢ
+n a a g l q p e k r # NMLZ;GDIR.UP;PDIR.HITHER;3AUGᵢ
+s c m # PCLF1;1AUGᵢᵢ
+s c m # PCLF1;3MINᵢᵢ
+k c n g p e # INCH*
+n z p r p x n g r # RL;INCH*;PDIR.THITHER;1AUGᵢ
+n z p r p x n g r # GDIR.DOWN;INTS;.VERY;1AUGᵢ
+n z p r p x n g r # RL+3AUG;PDIR.HITHER
+n z p r p x n g r # PDIR.THITHER;3MINᵢ
+n z p r p x n g r # GDIR.ACROSS;1AUGᵢ
+n a y a - p w z - t i p e x # IRR;TRNS;INCH*;1MINᵢ
+n a y a - p w z - t i p e x # GDIR.OUT;HAB;1AUGᵢ
+t u o m # INTS;.VERY;GDIR.UP;PDIR.HITHER
+t u o m # NMLZ;CAUS;GDIR.OUT;APP;PDIR.HITHER
+k x l r p r # SUBR
+n z a l v z t r n g # 3AUGᵢ;TRNS;3AUGᵢ
+n z y r b z # 3AUGᵢ;3AUGᵢ
+a w i t x p e # INTS;.VERY;INCH*
+t q r p n a - n g r m # 3AUGᵢ;3AUGᵢ
+t q w a i p e x # RL;12MINᵢ
+t q w a i p e x # CMPL;3MINᵢ
+t q w a i p e x # 3AUGᵢ;APP;PDIR.THITHER;3AUGᵢ
+t u l z m c # NMLZ;NMLZ.POSS;3MINᵢᵢ
+t q m a l e l e # DETR
+n z w z - k r g r # NMLZ;TRNS;NMLZ.POSS;PDIR.THITHER;3MINᵢ
+t q a m i n g r - n g r g r # IRR;CAUS;TRNS;APP;3AUGᵢᵢ
+t q a m i n g r - n g r g r # IRR;CAUS;APP;1AUGᵢᵢ
+n z a n i t x p w z n g # NMLZ;INTS;.VERY;RSTR
+n z a n i t x p w z n g # NMLZ;INTS;.VERY;RSTR;3AUGᵢ
+t q v o t i t r p e m l e # PDIR.HITHER;3MINᵢ
+t q x p l r # RL
+k x y r l z # TRNS;3MINᵢ
+n a r p n z ' # RL;GDIR.UP;PDIR.HITHER
+n a r p n z ' # RL;3MINᵢ
+t q k a p u t r - n g r b z # RL;APP;PDIR.THITHER
+t q a m z b l q p x m c # GDIR.OUT;PDIR.HITHER;1MINᵢ
+t r t e d e # 1MINᵢᵢ
+t q v z p e - k z x # RL;INCH*;1MINᵢ
+t q d w a p l r k r n g # INTS;.VERY;GDIR.IN;1MINᵢ
+t q d w a p l r k r n g # NMLZ;GDIR.IN;NMLZ.POSS;3MINᵢᵢ
+t q d w a p l r k r n g # GDIR.UP;PDIR.HITHER;1AUGᵢᵢ
+d w a t x t r x # INTS;.VERY;GDIR.IN;1MINᵢ
+d w a t x t r x # GDIR.UP;PDIR.HITHER;1AUGᵢᵢ
+t q w z t i p e l e # NMLZ;TRNS;NMLZ.POSS;PDIR.THITHER;3MINᵢ
+t z p n a t i b z l r # RL+3AUG;PDIR.THITHER;3AUGᵢ
+r m c t i - n g r g r l e # APP;1AUGᵢᵢ;3MINᵢᵢ
+t w z q # 2MINᵢ
+t w z q # RL;GDIR.DOWN;INCH*
+n a e s z ' m z n g # IRR;3AUGᵢ
+t r d o - k z u # NEG;NEG
+t r d o - k z u # NEG;NEG
+n a p i t r - m o u p o # PDIR.THITHER;3MINᵢ
+d r t w r d r # 3MINᵢᵢ
+d r t w r d r # 1MINᵢᵢ;3MINᵢᵢ
+d r t w r d r # 3AUGᵢᵢ
+n z r k a t x n g r # DETR;GDIR.IN;PDIR.HITHER
+n z y r b z # RL;PDIR.HITHER
+n z y r b z # NMLZ;PDIR.HITHER
+n z y r b z # RL;DETR;APP;1MINᵢᵢ
+n z y r b z # RL;DETR;APP;1MINᵢᵢ
+n z r p l a m e i t i - k r d e # INTS;.VERY;INTS;.VERY;GDIR.OUT;3MINᵢ
+n z r p l a m e i t i - k r d e # RL;CAUS;PDIR.THITHER;1AUGᵢ
+n z r p l a m e i t i - k r d e # RL;TRNS;GDIR.DOWN
+n z r p l a m e i t i - k r d e # PASS;GDIR.IN;PDIR.THITHER
+t q y a g o x p e # INTS;.VERY
+k r l z m g r # PASS;GDIR.IN;PDIR.THITHER
+k r l z m g r # NEG;PCLF6;PDIR.HITHER;3MINᵢ;NEG
+k r l z m g r # NEG;GDIR.IN;NEG
+k r l z m g r # PDIR.THITHER;3MINᵢ
+k r l z m g r # 3AUGᵢ;TRNS
+k r l z m g r # GDIR.UP;PDIR.THITHER;1AUGᵢ
+t a g l c t x d e # INTS;.VERY;3MINᵢᵢ
+t r t r k a - z l w z p w z u # NEG;RSTR;NEG
+t z l v c m l r # PDIR.HITHER
+t z v z k i n e d r # RL;INCH*;1MINᵢ
+n z o - k r m # NMLZ;GDIR.UP;NMLZ.POSS;PDIR.HITHER;3MINᵢ
+t a p l x s r g r # 1AUGᵢᵢ
+y c m n e p e # NMLZ;NMLZ.POSS;2MINᵢᵢ*
+y c m n e p e # RL+3AUG;APP;INCH*;PDIR.HITHER;3AUGᵢ
+y c m n e p e # RL+3AUG;GDIR.IN;INCH*;APP;3AUGᵢᵢ
+n a k q t x o m # IRR;INTS;.VERY;GDIR.DOWN;PDIR.HITHER
+n a k q t x o m # NMLZ;GDIR.DOWN;NMLZ.POSS;PDIR.HITHER
+m c l x n g # APP;1AUGᵢᵢ;3MINᵢᵢ
+n z l z t r - n g r d e # IRR;DETR
+n g r l r m i m l e # NMLZ;GDIR.OUT;NMLZ.POSS;PDIR.HITHER;1AUGᵢᵢ
+n g r l r m i m l e # IRR;UDIR.PATH;GDIR.IN;3AUGᵢ
+n g r l r m i m l e # RL;GDIR.UP;INCH*
+t q m r l z - n g r d e # RL;APP;3MINᵢᵢ
+t q m r l z - n g r d e # INCH*
+n z x l r b z l r l e # 3MINᵢ
+t q r l x t i p e b z k r # RL;TRNS;INCH*;PDIR.THITHER;1AUGᵢ
+t q r l x t i p e b z k r # IRR;GDIR.IN;PDIR.THITHER;1AUGᵢ
+t q r l x t i p e b z k r # RL+3AUG;TRNS;PDIR.HITHER;3AUGᵢ
+t q r l x t i p e b z k r # IRR;TRNS;1AUGᵢ
+t q t a b c - z l i n e p e k r # RL;ALONG;INTENSIFIER;INCH*;1AUGᵢ
+t q t a b c - z l i n e p e k r # HAB;1AUGᵢ
+n a r l a s z p e l r # IRR;INCH*;3AUGᵢ
+t q v o t x - n g r p w z # GDIR.IN;PDIR.THITHER;1AUGᵢ
+n a r y z k r - n g r g r # RL+3AUG;DETR;3AUGᵢ
+n a r y z k r - n g r g r # IRR;DETR;APP;1AUGᵢᵢ
+k x e t u # INTS;.VERY
+n z v z p x n g # RL;INCH*;1MINᵢ
+n z v z p x n g # RL;INCH*;1MINᵢ
+n a l i n g # IRR
+t r t q k a p e p w q l e # 3AUGᵢ;GDIR.UP;PDIR.HITHER;3AUGᵢ
+t r t q k a p e p w q l e # IRR;.BZ(DIR).=O(1MIN).=>..BO
+t r t q k a p e p w q l e # DETR;GDIR.IN;PDIR.HITHER
+n z l x p l z t x # PASS;INTS;.VERY
+n a r l z # PASS;GDIR.IN;APP;3MINᵢᵢ
+n a n g r l r t r k i # COM;PDIR.HITHER;3MINᵢ
+t z m a t q # RL+3AUG
+x l r b z l e # 1AUGᵢ;3MINᵢᵢ
+y z l u m c # RL+3AUG;INCH*;PDIR.HITHER;3AUGᵢ
+n z y a l z - k r g r # GDIR.OUT;HAB;1AUGᵢ
+n z y a l z - k r g r # INTENSIFIER;HAB;1AUGᵢ
+n z y a l z - k r g r # IRR;TRNS;INCH*;1MINᵢ
+n a r t a n g r t i k r # RL+3AUG;INCH*
+v o k r # PDIR.HITHER;3MINᵢ
+x l r b z l e # PDIR.HITHER;3MINᵢ
+t r - r m n q u # NEG;NEG
+t r - r m n q u # TRNS;INCH*;3MINᵢ
+t q y r p u t i p x p e # RL;TRNS;GDIR.OUT;INCH*
+t q y r p u t i p x p e # RL;GDIR.OUT
+l x e g r # 1MINᵢᵢ
+n c b l o n g r # DEM4
+t z t u l r t r p e m # RL+3AUG;GDIR.IN;INCH*;2MINᵢᵢ*
+t z k u k i r p e l r # RL+3AUG;ADD.TRANSITIVITY;INCH*;3AUGᵢ
+n z b o m - k r d e # NMLZ;NMLZ.POSS;3MINᵢᵢ
+n z w z - z l w z - k r g r # NMLZ;TRNS;NMLZ.POSS;PDIR.THITHER;3MINᵢ
+t z n g r l r k i o p e l r # COM;PDIR.HITHER;3MINᵢ
+t z n g r l r k i o p e l r # RL;GDIR.OUT;INCH*;PDIR.HITHER;3MINᵢ
+n z v z k i o l r # RL;INCH*;1MINᵢ
+n z v z k i o l r # RL;INCH*;1MINᵢ
+n a i p q p x n g r # IRR;GDIR.OUT;APP
+o s o p x b z k r # PDIR.THITHER;1AUGᵢ
+r k a l z m # PDIR.HITHER;3MINᵢ
+k x t o p w z # SUBR;TRNS;PL
+t q n g r l r p x p e k r # RL;GDIR.UP;INCH*
+t q n g r l r p x p e k r # RL;GDIR.OUT;INCH*;PDIR.HITHER;3MINᵢ
+t q n g i # NEG;3MINᵢ;NEG
+y r l q b z k r # PDIR.THITHER;3MINᵢ
+y r l q b z k r # INTS;.VERY;1MINᵢ
+r g l q p x k r # IRR;CAUS;PDIR.THITHER;3AUGᵢ
+r g l q p x k r # IRR;CAUS;INCH*;1AUGᵢ
+m z t e # 3MINᵢᵢ
+m z t e # 3AUGᵢᵢ
+t r k r c l u u # NEG
+n a m n c t x p o # NMLZ;GDIR.UP;PDIR.THITHER
+r k a t r p q # 3AUGᵢ;GDIR.UP;PDIR.HITHER;3AUGᵢ
+r k a t r p q # DETR;GDIR.IN;PDIR.HITHER
+n z w z t i - k r b z l e # NEG;RL;INCH*;NEG
+r g l q k r # IRR;CAUS;PDIR.THITHER;3AUGᵢ
+r g l q k r # IRR;CAUS;INCH*;1AUGᵢ
+n z a t a k i # PASS
+n o u d e # 3MINᵢᵢ
+t z r t w z t i p e - k z n g # 2MINᵢ
+t q a y r n i p e # RL;INTS;.VERY;INCH*
+n z s i k a p u - k r d e # NMLZ;NMLZ.POSS;3MINᵢᵢ
+t r t e d e # 3MINᵢᵢ
+t q v o t i t r p e m l e # RL;INTS;.VERY;APP;RSTR
+n z e t u p e - k r n g e # INTENSIFIER;GDIR.OUT
+n z e t u p e - k r n g e # INTENSIFIER;GDIR.OUT;HAB;3MINᵢ
+n z e t u p e - k r n g e # SUBR;PDIR.THITHER
+t z t a v e t r l r # RL+3AUG;3AUGᵢ
+m r b r l z m # GDIR.UP;PDIR.HITHER
+t z t a v e l r # RL+3AUG;3AUGᵢ
+t q m c p e k r # NEG;1MINᵢ;NEG
+l o l v z o a m u # GDIR.DOWN;2AUGᵢ
+k x p r k i # RL;GDIR.UP;PDIR.HITHER
+t q a c l v e b o # RL;1MINᵢ
+n z o p x - n g r m # RL;INCH*;APP;3MINᵢᵢ
+t q y a g o x p e # IRR;3AUGᵢ
+r p i l e # PDIR.THITHER;3MINᵢ
+s c d r # PCLF1;3AUGᵢᵢ
+t q m c p e k r # 1AUGᵢ
+t q n g q p e l e n g # IRR;2AUGᵢ
+t q n g q p e l e n g # PASS;TRNS;INTS;.VERY;RSTR
+t q n g q p e l e n g # RL;INCH*;3MINᵢ;3AUGᵢ
+t q n g q p e l e n g # IRR;INTS;.VERY;1AUGᵢ
+m r k c n g # PL
+y a p x - z v z k r # GDIR.OUT;HAB;1AUGᵢ
+n z k q o - k r m # IRR;INTS;.VERY;GDIR.DOWN;PDIR.HITHER
+n z k q o - k r m # NMLZ;GDIR.DOWN;NMLZ.POSS;PDIR.HITHER
+t q t w z o p e # RL+3AUG;TRNS;3AUGᵢ
+t q t w z o p e # 2MINᵢ
+t q t w z o p e # RL+3AUG;DETR;3AUGᵢ
+t q t w z o p e # IRR;DETR;GDIR.DOWN;PDIR.THITHER
+t q t w z o p e # DETR;INTS;.VERY;QNT;.BZ(DIR).=O(1MIN).=>..BO
+t q t w z o p e # RL+3AUG;PROGRESSIVE;3AUGᵢᵢ
+o b q o b z # GDIR.IN;PDIR.THITHER
+o b q o b z # UDIR.PATH;PDIR.HITHER;1MINᵢ
+n a r l x t i b o # IRR;INTS;.VERY;.BZ(DIR).=O(1MIN).=>..BO
+t q t z l e # RL;3MINᵢ
+t q t u p x m # INTS;.VERY;GDIR.UP;PDIR.HITHER
+t q t u p x m # RL;GDIR.OUT;PDIR.HITHER
+t q t u p x m # RL;INTENSIFIER;RSTR
+x l r k r l e # 1AUGᵢ
+n a o k a t r p q l r # IRR;PDIR.HITHER;3AUGᵢ
+n a o k a t r p q l r # IRR;APP;3MINᵢᵢ
+n z l z t i n g # NMLZ;DETR;NMLZ.POSS;PDIR.THITHER;3MINᵢ
+n z l z t i n g # PASS;GDIR.IN;APP;3MINᵢᵢ
+p r o t x k r # RL;INCH*;PDIR.THITHER;1AUGᵢ
+r p i - m o u p q l e # PDIR.THITHER;3MINᵢ
+t q m a i l z p e b z l e # RL+3AUG;3AUGᵢ
+t q o t i m l e # PDIR.THITHER;3MINᵢ
+t q o t i m l e # RL;AFTERWARD;PDIR.HITHER
+t q o t i m l e # RL;INCH*;PDIR.HITHER;3MINᵢ
+t q o t i m l e # RL;GDIR.IN;INCH*;PDIR.HITHER;3MINᵢ
+t q o t i m l e # RL;PDIR.HITHER;3MINᵢ
+n z r p i m l r # PDIR.THITHER;3MINᵢ
+n z r l z - k r b z l e # PASS;GDIR.IN;APP;3MINᵢᵢ
+n z r l z - k r b z l e # NMLZ;DETR;NMLZ.POSS;PDIR.THITHER;3MINᵢ
+t q n g y a p e # RL;INCH*
+n z a b r t z l v z l r # NMLZ;1AUGᵢ
+s e k a e n t x k r # SHAKE.HANDS;INTS;.VERY;1AUGᵢ
+s e k a e n t x k r # GDIR.DOWN;PDIR.HITHER;2AUGᵢ
+n z o b q - k a p q k r # NMLZ;1AUGᵢ
+t r n a n i b q l e u # NEG;IRR;3MINᵢ;NEG
+t r k r l z w x u # RL+3AUG;INCH*;AFTERWARD;3AUGᵢ
+n a m n c - k a p q n g r # NMLZ;GDIR.UP;PDIR.THITHER
+n a m n c - k a p q n g r # RL;APP;3MINᵢᵢ
+t z k u k i - n g r d r # RL+3AUG;ADD.TRANSITIVITY;INCH*;3AUGᵢ
+k r l x l z p e l e # GDIR.UP;INCH*;3MINᵢ
+k r l x l z p e l e # RL;GDIR.UP;INCH*;3MINᵢ
+d r t a ' d r # 3AUGᵢᵢ
+n z n u r d e # NMLZ;GEN1A;3MINᵢᵢ
+n z t a v e t r # RL+3AUG;GDIR.IN;3AUGᵢ
+t q m n c - n g r d e # 3AUGᵢ;GDIR.UP;PDIR.THITHER;3AUGᵢ
+n g r l a p l x p x k r # UDIR.THROUGH;GDIR.OUT;1AUGᵢ
+t q r g l q t i k r # IRR;CAUS;INCH*;1AUGᵢ
+t q r g l q t i k r # DETR;1AUGᵢ
+t q r g l q t i k r # NMLZ;GDIR.DOWN;3AUGᵢ
+t r n z k q l u - k r p e p w q g r u # NEG;NMLZ;NMLZ.POSS;INCH*;ONLY;1AUGᵢᵢ;NEG
+t r n z k q l u - k r p e p w q g r u # 3AUGᵢ;INTS;.VERY
+k x l i # IRR
+m n r n g e # PCLF9;1AUGᵢᵢ
+m n r n g e # PCLF9;1AUGᵢᵢ;PL
+n a k r k a ' - z v z k u # NMLZ;GDIR.OUT;NMLZ.POSS;PDIR.HITHER;3AUGᵢ
+n a k r k a ' - z v z k u # IRR;HAB;12AUGᵢ
+m w x l r t x - z l w z k r # INTS;.VERY;1AUGᵢ
+k x t o p w z n e # SUBR;INTENSIFIER
+k x t o p w z n e # RL;DUR;APP;1MINᵢᵢ
+t r p e l e u # PASS;TRNS
+t r p e l e u # RL+3AUG;GDIR.DOWN;APP
+t q n e p e x # IRR;3AUGᵢ
+t q a y r n i p e # RL+3AUG;PROGRESSIVE;GDIR.IN;INCH*;PDIR.THITHER;3AUGᵢ
+y r l z t i l e # TRNS;3MINᵢ
+o s z b z l e # PDIR.THITHER;3MINᵢ
+t r t e n g e # 3MINᵢᵢ
+t r t e n g e # 3AUGᵢᵢ
+t q p n z ' l e # RL;GDIR.UP;PDIR.HITHER
+t q p n z ' l e # RL;3MINᵢ
+t r n z y a g o x - k r g r u # IRR;3AUGᵢ
+y a n e - z v z k r # IRR;TRNS;INCH*;1MINᵢ
+y a n e - z v z k r # GDIR.OUT;HAB;1AUGᵢ
+y a n e - z v z k r # INTENSIFIER;HAB;1AUGᵢ
+n z k r l z m l r # RL+3AUG;INCH*;AFTERWARD;3AUGᵢ
+t z y a p x p e n g # IRR;TRNS;INCH*;1MINᵢ
+t z y a p x p e n g # 3AUGᵢ;HAB;3AUGᵢ
+t z y a p x p e n g # INTENSIFIER;HAB;1AUGᵢ
+t z y a p x p e n g # GDIR.OUT;HAB;1AUGᵢ
+n a p i p x - l z b q n g # IRR;SELF;3AUGᵢ
+o t i b z # RL;PDIR.HITHER;3MINᵢ
+a w i t x - n g r b z k r # PASS;INTS;.VERY;PDIR.HITHER
+a w i t x - n g r b z k r # INTS;.VERY;APP;PDIR.THITHER;1AUGᵢ
+a w i t x - n g r b z k r # RL;INCH*;PDIR.THITHER;1AUGᵢ
+a w i t x - n g r b z k r # INTS;.VERY;INCH*
+t q p n z ' p e l e # RL;GDIR.UP;PDIR.HITHER
+t q a m a o p e # RL;AFTERWARD;1AUGᵢ
+t q a m a o p e # RL;GDIR.DOWN;INCH*;3MINᵢ
+n z a b r t z - z v z n g r # NMLZ;1AUGᵢ
+n g r l x t x o # RL;GDIR.DOWN;INCH*
+n g r l x t x o # SUBR;GDIR.DOWN;PDIR.THITHER;3MINᵢ
+n g r l x t x o # INTS;.VERY;GDIR.DOWN;3MINᵢ
+d r v r m i n e m l e # IRR;CAUS;APP;.BZ(DIR).=O(1MIN).=>..BO
+t q y r k r t r - a t e m # GDIR.OUT;PDIR.THITHER;3MINᵢ
+t q y r k r t r - a t e m # INTS;.VERY;GDIR.DOWN;3MINᵢ
+t q y r k r t r - a t e m # RL;INCH*;APP
+o b q p x k r # GDIR.OUT;1AUGᵢ
+o b q p x k r # 3AUGᵢ;GDIR.OUT;PDIR.THITHER
+n z w a i n e - n g r b z l r # 3AUGᵢ;APP;PDIR.THITHER;3AUGᵢ
+t q r p i - n g r n # SELF
+t q r p i - n g r n # IRR;SELF;3AUGᵢ
+t q d c - z l w z n g r # RL;APP
+t q d c - z l w z n g r # RL;GDIR.OUT;PDIR.HITHER;3MINᵢ
+t z r l x n g i t i n g # DETR;3MINᵢ
+n z r p i - a n i - k r m l e # PDIR.THITHER;3MINᵢ
+n z r p i b z # PDIR.THITHER;3MINᵢ
+t r t q k a p e p w q l e # NEG;RL;INCH*;PDIR.HITHER;3MINᵢ;NEG
+t q m r l z p e # IRR;3MINᵢ
+t q m r l z p e # INCH*
+t q m r l z p e # RL;1MINᵢ
+t q m r l z p e # IRR;CAUS;GDIR.IN;APP;PDIR.THITHER;3AUGᵢ
+t q m r l z p e # RL;APP;3MINᵢᵢ
+y c - n r b a l q # QNT
+y c - n r b a l q # IRR;TRNS;GDIR.OUT;PDIR.HITHER
+y r l q t x - m o u x # PASS
+t z s i k l u t i # RL;DUR;APP;1MINᵢᵢ
+t z s i k l u t i # RL+3AUG;GDIR.OUT;APP;PDIR.HITHER;3AUGᵢ
+n u t i t x k r # TRNS;INTS;.VERY;1AUGᵢ
+n z p n u t i t x # PASS;INTS;.VERY
+n z m n c p e n g # RL;APP;3MINᵢᵢ
+n z m n c p e n g # 3AUGᵢ;GDIR.UP;PDIR.THITHER;3AUGᵢ
+n z r p l a m e i t i - k r d e # RL;GDIR.OUT;3MINᵢ
+n z m n c l z b z n g # 3AUGᵢ;GDIR.UP;PDIR.THITHER;3AUGᵢ
+n z m n c l z b z n g # NMLZ;GDIR.UP;PDIR.THITHER
+r p i o b z l e # RL;TRNS;1AUGᵢ
+r p i o b z l e # RL;DETR;INCH*;.BZ(DIR).=O(1MIN).=>..BO
+r p i o b z l e # RL;INCH*;PDIR.THITHER;1AUGᵢ
+r p i o b z l e # NMLZ;NMLZ.POSS;PDIR.HITHER;3AUGᵢ
+r p i o b z l e # DETR;GDIR.DOWN;3MINᵢ
+r p i o b z l e # NMLZ;DETR;NMLZ.POSS;.BZ(DIR).=O(1MIN).=>..BO
+r p i o b z l e # NEG;PDIR.HITHER;2MINᵢ;NEG
+r p i o b z l e # INTS;.VERY;PDIR.HITHER;3MINᵢ
+r p i o b z l e # RL;INCH*;PDIR.HITHER;3MINᵢ
+r p i o b z l e # RL;DETR;INCH*;PDIR.THITHER;3MINᵢ
+r p i o b z l e # DETR;.BZ(DIR).=O(1MIN).=>..BO
+r p i o b z l e # RL;DETR;PDIR.HITHER;3MINᵢ
+r p i o b z l e # NMLZ;GDIR.OUT;NMLZ.POSS
+r p i o b z l e # DETR;PDIR.THITHER;1AUGᵢ
+r p i o b z l e # DETR;PDIR.THITHER;3MINᵢ
+r p i o b z l e # DETR;ADD.TRANSITIVITY;3MINᵢᵢ
+r p i o b z l e # PASS;DETR;PDIR.THITHER
+r p i o b z l e # INCH*;PDIR.THITHER
+r p i o b z l e # RL;DETR;3MINᵢ
+t q n g r l r l z p e # COM;PDIR.HITHER;3MINᵢ
+t q n g r l r l z p e # RL;GDIR.OUT;INCH*;PDIR.HITHER;3MINᵢ
+t q n g r l r l z p e # RL;GDIR.UP;INCH*
+n z m n c l z b z # 3AUGᵢ;GDIR.UP;PDIR.THITHER;3AUGᵢ
+n z m n c l z b z # NMLZ;GDIR.UP;PDIR.THITHER
+n z m n c l z b z # RL;APP;3MINᵢᵢ
+n e m u n g # PCLF7;3MINᵢᵢ
+n e m u n g # PCLF7;1MINᵢᵢ;PL
+n e m u n g # PCLF7;2AUGᵢᵢ;PL
+n e m u n g # PCLF7;12AUGᵢᵢ;PL
+n e m u n g # PCLF7;1AUGᵢᵢ
+n e m u n g # PCLF7;1MINᵢᵢ
+m z l e d e n g # 3MINᵢᵢ;PL
+m z l e d e n g # 3MINᵢᵢ
+n z r p i b z l r # PDIR.THITHER;3MINᵢ
+r l r - n g r m e # NEG;APP;PDIR.HITHER;3MINᵢ;NEG
+r l r - n g r m e # IRR;APP;2MINᵢ
+r l r - n g r m e # RL;INCH*;APP;PDIR.HITHER;3MINᵢ
+n z y o l x o m l r # 3AUGᵢ;GDIR.DOWN;PDIR.HITHER;3AUGᵢ
+n z b z - k r g r # NMLZ;NMLZ.POSS;1AUGᵢᵢ
+m r t u p e # INCH*
+m r t u p e # RL;APP;3MINᵢᵢ
+v o t r p z k r # 1AUGᵢ
+t q r p n a p e - n g r m l e # NEG;RL+3AUG;INCH*;NEG
+t q r p n a p e - n g r m l e # NMLZ;UDIR.PATH;GDIR.OUT;DER
+t q r p n a p e - n g r m l e # 3AUGᵢ;TRNS;3AUGᵢ
+t q r p n a p e - n g r m l e # 3AUGᵢ;DISTR;GDIR.DOWN;INCH*;NMLZ.POSS;PDIR.HITHER;3AUGᵢ
+t q r p n a p e - n g r m l e # NMLZ;TRNS;NMLZ.POSS;PDIR.THITHER;2AUGᵢᵢ
+t q r p n a p e - n g r m l e # NMLZ;TRNS;NMLZ.POSS;1AUGᵢᵢ
+k x o d a # SUBR
+n a p i l v z t i # IRR;TRNS
+m n c p e x # 3AUGᵢ;GDIR.UP;PDIR.THITHER;3AUGᵢ
+m n c p e x # RL;APP;3MINᵢᵢ
+m w x l r - n g r g r # INTS;.VERY;1AUGᵢ
+t q a m z n r p e l e # RL;CAUS;INCH*;3MINᵢ
+y c p x # QNT
+m z ~ n i b r # 1AUGᵢᵢ
+n g r g u # GEN1A;3AUGᵢᵢ;PL
+t q y a p x p e b z # GDIR.OUT;HAB;1AUGᵢ
+t q y a p x p e b z # IRR;TRNS;INCH*;1MINᵢ
+t z a v e a t i p e # RL;INCH*;PDIR.THITHER
+t q d w a p l r k r n g # MNR;GDIR.UP;APP;PDIR.HITHER;1AUGᵢᵢ
+t z n g r l a p l x # UDIR.THROUGH;GDIR.OUT;1AUGᵢ
+t q y r p l a t r p e # PREVENT;INCH*
+t q y r p l a t r p e # RL;GDIR.IN;APP
+x l r m l e # 1AUGᵢ
+m a l e l e # RL;3MINᵢ
+t q m u k r # RL;1AUGᵢ
+t q m u k r # RL+3AUG;INCH*;APP;3AUGᵢᵢ
+t r o p i l v z u # NEG;UDIR.TOWARD;NEG
+t r o p i l v z u # IRR;TRNS
+n z v o u n e o p e m # 3AUGᵢ;INTENSIFIER;GDIR.DOWN;INCH*;PDIR.HITHER
+l c d e p w z # RSTR
+t q t u n e p w z # RL;INTENSIFIER;RSTR
+t q t u n e p w z # INTS;.VERY;GDIR.UP;PDIR.HITHER
+t q t u n e p w z # NMLZ;CAUS;GDIR.OUT;APP;PDIR.HITHER
+t q t u n e p w z # RL;GDIR.OUT;PDIR.HITHER
+m a l e l e # 3MINᵢ
+n a y a g o x n g # NEG;NMLZ;NMLZ.POSS;1AUGᵢᵢ;NEG
+a s u m i p e b o # RL;CAUS;3MINᵢ
+t q k q l e p e b z l e # NEG;GDIR.DOWN;PDIR.HITHER;3MINᵢ;NEG
+t z k r l z p e - a t e l r # RL+3AUG;INCH*;AFTERWARD;3AUGᵢ
+t q n g r l r p e k r # COM;PDIR.HITHER;3MINᵢ
+t q n g r l r p e k r # RL;GDIR.UP;INCH*
+l a p e # DEM1;PL
+n z l z t r - n g r d e # NMLZ;DETR;3AUGᵢ
+k c m a n g # DEM4;ADVRS;3AUGᵢ
+t q y r w i l x # RL;ALL
+t q p i b z # PDIR.THITHER;3MINᵢ
+t q v o t x - n g r p w z # 1AUGᵢ
+x l r k r l e # 3MINᵢ
+t q y r k e l v z q # RL;UDIR.TOWARD;2MINᵢ
+t q y r k e l v z q # RL;UDIR.TOWARD;1MINᵢ
+m q n g r m # 2MINᵢᵢ*
+t z w r k x t r p e n g # IRR;3MINᵢ
+t q n g i # IRR
+m n c - e p e l z l e # 3AUGᵢ;GDIR.UP;PDIR.THITHER;3AUGᵢ
+m n c - e p e l z l e # RL;APP;3MINᵢᵢ
+t q m n c # RL;APP;3MINᵢᵢ
+t q p z l e # RL;3MINᵢ
+b l e t i p x - l x b l r n g # TRNS;GDIR.OUT;PL
+t r n z y a g o x - k r g r u # NEG;NMLZ;NMLZ.POSS;1AUGᵢᵢ;NEG
+n z t u - z v z - k r d e # RL;INTENSIFIER;RSTR
+n z t u - z v z - k r d e # NMLZ;CAUS;GDIR.OUT;APP;PDIR.HITHER
+t z p n z - l z b q n g r # RL;3MINᵢ
+t z p n z - l z b q n g r # RL;DETR;INCH*;PDIR.THITHER
+t z p n z - l z b q n g r # PDIR.THITHER;3MINᵢ
+t z p n z - l z b q n g r # PASS;INCH*;2MINᵢᵢ*
+t z p n z - l z b q n g r # INTS;.VERY;3MINᵢᵢ
+t z p n z - l z b q n g r # RL;GDIR.UP;PDIR.HITHER
+t z t a v e l r # RL+3AUG;GDIR.IN;3AUGᵢ
+t q v o t i t r p e m l e # 1AUGᵢ
+t q k r l z - a t e b z k r # RL;AFTERWARD;PDIR.THITHER;1AUGᵢ
+t q k r l z - a t e b z k r # RL+3AUG;INCH*;AFTERWARD;3AUGᵢ
+t u p x m # INTS;.VERY;GDIR.UP;PDIR.HITHER
+t u p x m # RL;INTENSIFIER;RSTR
+t u p x m # RL;GDIR.OUT;PDIR.HITHER
+n e g u n g # PCLF7;12AUGᵢᵢ;PL
+n e g u n g # PCLF7;1MINᵢᵢ;PL
+n e g u n g # PCLF7;2AUGᵢᵢ;PL
+t q v o t x - n g r p w z # RL;DUR
+t q v o t x - n g r p w z # RL;INTS;.VERY;APP;RSTR
+t q p l c o # SUBR
+l x e g r # 1AUGᵢᵢ
+n z t e k q t r n g r # PASS;APP
+t q r p n a p e - n g r m l e # PASS
+t r n z p i - k r p l e u # IRR;SELF;3AUGᵢ
+t q p r t r p e b z k r # GDIR.DOWN;INTS;.VERY;1AUGᵢ
+t q p r t r p e b z k r # RL;INCH*;PDIR.THITHER;1AUGᵢ
+n z p l z p x - k r m a m u # NMLZ;NMLZ.POSS;PCLF5;2AUGᵢᵢ
+n z b z - k r g r # TRNS;INCH*;3MINᵢᵢ
+t z l v a b e t r p e b z # RL+3AUG;DUR;GDIR.IN;INCH*;PDIR.THITHER
+t q m z b l q p x m # RL;CAUS;INTS;.VERY;GDIR.OUT;INCH*;PDIR.HITHER;1MINᵢ
+t q m z b l q p x m # NMLZ;CAUS;GDIR.OUT;NMLZ.POSS;PDIR.HITHER;1MINᵢ
+t q m z b l q p x m # RL;GDIR.OUT;PDIR.HITHER
+v o t r p z k r # RL;DUR
+v o t r p z k r # RL;INTS;.VERY;APP;RSTR
+t z s i k l u t i # RL+3AUG;TRNS
+e t u t x # RL;INTENSIFIER;GDIR.OUT;INCH*
+n z x l r b z l r l e # 1AUGᵢ
+n a m a p u p e b z l e # IRR;ADVRS;SPHERICAL.OBJECT;INCH*;PDIR.THITHER;3MINᵢ
+n z a p r e s i n - n g r # PASS;CAUS;APP
+t u t x l z m # INTS;.VERY;GDIR.UP;PDIR.HITHER
+t u t x l z m # NMLZ;CAUS;GDIR.OUT;APP;PDIR.HITHER
+t z t a v e t r l r # RL+3AUG;GDIR.IN;INCH*;3AUGᵢ
+m w a k r # 1AUGᵢ
+n z p r p x n g r # PDIR.HITHER;1MINᵢ
+t r b o i u # NEG;NEG
+n a e s z ' m z n g # DISTR
+n a e s z ' m z n g # TRNS
+n a e s z ' m z n g # NMLZ.POSS;3MINᵢᵢ
+m r l x m # 2MINᵢᵢ*
+m r l x m # 2MINᵢᵢ*
+t u n e p w z # INTS;.VERY;GDIR.UP;PDIR.HITHER
+t u n e p w z # RL;GDIR.OUT;PDIR.HITHER
+t u n e p w z # RL;INTENSIFIER;RSTR
+t q t w z o p e # 1MINᵢ
+m e n g a b q # MALE.AGENT.OF.ACTION.WHICH.FOLLOWS
+v o k r # RL;DUR
+v o k r # RL;INTS;.VERY;APP;RSTR
+v o k r # 1AUGᵢ
+k r n e d r # RPRN2;DEM2;3MINᵢᵢ;PL
+k x n z y q n g # SUBR;3AUGᵢ;3AUGᵢ
+r l w x k r # 1AUGᵢ
+n z w z - k r g r # NMLZ;3AUGᵢ
+n z v z - k r m # PDIR.HITHER;3MINᵢ
+t q t w z o p e # RL;INCH*;PDIR.THITHER;3MINᵢ
+n z v z - k r m # 3AUGᵢ;PDIR.HITHER;3AUGᵢ
+v o m l e # 1AUGᵢ
+t z - z p q t r n g # RL+3AUG;3AUGᵢ
+m z t e # 1MINᵢᵢ
+t q w a i p e x # RL
+n z v z b z n g # RL;COM;GDIR.IN;INCH*;PDIR.THITHER;3MINᵢ
+d r t w r g r # 1AUGᵢᵢ
+t r n z k q l u - k r p e p w q g r u # INTS;.VERY
+v o m l e # RL;DUR
+v o m l e # RL;INTS;.VERY;APP;RSTR
+t z s i k l u t i # SUBR;3AUGᵢ
+t z v z p e - k a i n g # RL+3AUG;INCH*;3AUGᵢ
+n z v z k a i - k r g r # RL+3AUG;INCH*;3AUGᵢ
+n z v z - z v z b z n g # RL+3AUG;INCH*;3AUGᵢ
+y a n e - z v z k r # RL;GDIR.OUT;INCH*;PDIR.THITHER;3MINᵢ
+t q m c p e k r # PASS

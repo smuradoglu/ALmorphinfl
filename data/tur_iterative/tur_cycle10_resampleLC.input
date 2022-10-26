@@ -1,0 +1,250 @@
+a v u k a t # N;LGSPEC1;2S;SG;LGSPEC2
+ü z g ü n # ADJ;LGSPEC1;PRS;3;PL;POS;INTR
+ü z g ü n # ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR
+ü z g ü n # ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR
+ü z g ü n # ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL
+p a r ç a l a n m a k # V;INFR;FUT;1;SG;POS;DECL
+s e r p m e k # V;NEC;PRS;2;SG;POS;DECL
+d e ğ i ş m e k # V;IND;FUT;PROG;2;PL;NEG;DECL
+g ö ç m e k # V;IND;FUT;PROG;2;PL;NEG;DECL
+s ü z m e k # V;INFR;FUT;3;SG;INTR;POS
+s ü z m e k # V;IND;PST;PROG;2;SG;NEG;INTR
+s ü z m e k # V;IND;PST;1;PL;POS;DECL
+m e f h u m # N;DAT;SG
+y e r # N;DAT;SG;PSS1P
+p a r ç a l a n m a k # V;IND;PRS;HAB;3;SG;POS;DECL
+g ö ç m e k # V;IND;PRS;HAB;1;PL;POS;DECL
+g ö ç m e k # V;NFIN
+p a r ç a l a n m a k # V;IND;FUT;PRSP;3;PL;POS;DECL
+g ö ç m e k # V;IND;PST;HAB;2;SG;POS;DECL
+p a r ç a l a n m a k # V;INFR;PST;1;PL;NEG;DECL
+g ö ç m e k # V;IND;FUT;PRSP;1;PL;POS;DECL
+p a r ç a l a n m a k # V;IND;PST;HAB;PROG;3;PL;POS;DECL
+p a r ç a l a n m a k # V;IND;PST;PRSP;PROG;2;PL;NEG;INTR
+p a r ç a l a n m a k # V;NEC;INFR;PRS;PROG;2;SG;INTR;POS
+s e r p m e k # V;IND;FUT;PROG;1;PL;INTR;POS
+p a r ç a l a n m a k # V;IND;PST;HAB;PROG;3;SG;POS;DECL
+p a r ç a l a n m a k # V;NEC;PRS;PROG;2;PL;NEG;INTR
+p a r ç a l a n m a k # V;INFR;FUT;HAB;1;PL;NEG;INTR
+s e r p m e k # V;NEC;PRS;PROG;3;SG;INTR;POS
+s e r p m e k # V;IND;PST;3;SG;POS;DECL
+g ö ç m e k # V;IND;PST;HAB;1;PL;POS;DECL
+p a r ç a l a n m a k # V;INFR;FUT;PERF;3;PL;INTR;POS
+g ö ç m e k # V;IND;FUT;PRSP;3;SG;NEG;DECL
+p a r ç a l a n m a k # V;INFR;FUT;HAB;2;SG;NEG;INTR
+s e r p m e k # V;NEC;PRS;PROG;1;PL;INTR;POS
+s e r p m e k # V;IND;FUT;1;SG;POS;DECL
+g ö ç m e k # V;IND;PST;PRSP;PROG;3;SG;NEG;DECL
+g ö ç m e k # V;IND;PST;HAB;PROG;2;SG;NEG;DECL
+g ö ç m e k # V;INFR;FUT;PERF;1;PL;POS;DECL
+g ö ç m e k # V;IND;PST;PRSP;PROG;2;SG;INTR;POS
+g ö ç m e k # V;IND;FUT;PRSP;2;PL;NEG;DECL
+p a r ç a l a n m a k # V;INFR;FUT;PRSP;2;PL;NEG;INTR
+p a r ç a l a n m a k # V;INFR;PST;PRSP;1;SG;NEG;DECL
+p a r ç a l a n m a k # V;NEC;INFR;PST;1;PL;INTR;POS
+p a r ç a l a n m a k # V;IND;PRS;PROG;1;PL;INTR;POS
+s e r p m e k # V;IMP;2;PL;LGSPEC2;POS;DECL
+p a r ç a l a n m a k # V;INFR;PST;PRSP;3;SG;NEG;INTR
+g ö ç m e k # V;IND;PST;PRSP;PROG;2;SG;NEG;INTR
+g ö ç m e k # V;IND;FUT;PRSP;2;PL;NEG;INTR
+p a r ç a l a n m a k # V;IND;PRS;PROG;2;PL;NEG;DECL
+s e r p m e k # V;IND;PST;PRSP;PROG;3;PL;POS;DECL
+p a r ç a l a n m a k # V;IND;PST;PRSP;1;SG;INTR;POS
+s e r p m e k # V;IND;FUT;PRSP;3;SG;NEG;INTR
+s e r p m e k # V;INFR;FUT;HAB;1;PL;INTR;POS
+s e r p m e k # V;IND;PST;HAB;PROG;1;PL;NEG;DECL
+p a r ç a l a n m a k # V;INFR;LGSPEC1;PST;2;SG;NEG;DECL
+g ö ç m e k # V;INFR;FUT;3;SG;POS;DECL
+g ö ç m e k # V;INFR;FUT;PERF;1;SG;POS;DECL
+p a r ç a l a n m a k # V;IND;PST;PERF;2;SG;POS;DECL
+p a r ç a l a n m a k # V;INFR;PST;2;SG;INTR;POS
+s e r p m e k # V;INFR;FUT;PERF;1;SG;POS;DECL
+s e r p m e k # V;INFR;FUT;3;SG;POS;DECL
+p a r ç a l a n m a k # V;NEC;INFR;PST;3;PL;POS;DECL
+s e r p m e k # V;IND;PST;PRSP;PROG;3;SG;NEG;INTR
+g ö ç m e k # V;NEC;INFR;PRS;PROG;2;SG;POS;DECL
+g ö ç m e k # V;INFR;PST;PRSP;3;SG;POS;DECL
+g ö ç m e k # V;INFR;FUT;PROG;1;SG;INTR;POS
+p a r ç a l a n m a k # V;INFR;FUT;1;SG;NEG;DECL
+s e r p m e k # V;IND;PST;PRSP;PROG;1;SG;NEG;INTR
+s e r p m e k # V;IND;PST;HAB;3;PL;NEG;DECL
+k a t e g o r i # N;DAT;PL
+s e r p m e k # V;IND;PST;2;PL;NEG;DECL
+p a r ç a l a n m a k # V;IND;PST;PERF;2;PL;NEG;DECL
+p a r ç a l a n m a k # V;IND;PST;PROG;2;PL;NEG;DECL
+s e r p m e k # V;IND;FUT;PRSP;3;PL;NEG;INTR
+g ö ç m e k # V;IND;PST;PRSP;1;PL;POS;DECL
+s e r p m e k # V;IND;FUT;2;SG;NEG;DECL
+g ö ç m e k # V;INFR;PST;PRSP;2;PL;NEG;DECL
+p a r ç a l a n m a k # V;IND;PST;PROG;1;SG;INTR;POS
+s e r p m e k # V;NEC;PST;PROG;2;SG;NEG;DECL
+s e r p m e k # V;INFR;PST;PERF;1;SG;NEG;DECL
+s e r p m e k # V;IND;PRS;PROG;3;SG;NEG;INTR
+g ö ç m e k # V;IND;PST;HAB;3;PL;INTR;POS
+g ö ç m e k # V;NEC;PST;PROG;1;PL;NEG;INTR
+p a r ç a l a n m a k # V;IND;PST;PERF;1;SG;INTR;POS
+g ö ç m e k # V;INFR;PST;PRSP;2;PL;NEG;INTR
+p a r ç a l a n m a k # V;INFR;PST;PERF;3;PL;INTR;POS
+s e r p m e k # V;INFR;FUT;PERF;3;PL;INTR;POS
+s e r p m e k # V;NEC;PST;3;PL;NEG;DECL
+s e r p m e k # V;NEC;PRS;1;PL;POS;DECL
+s e r p m e k # V;IND;PST;2;SG;NEG;INTR
+s e r p m e k # V;INFR;PST;PRSP;1;SG;NEG;DECL
+p a r ç a l a n m a k # V;INFR;PST;PERF;1;PL;INTR;POS
+g ö ç m e k # V;NEC;PST;PROG;3;PL;NEG;DECL
+g ö ç m e k # V;INFR;FUT;3;PL;NEG;DECL
+s e r p m e k # V;NEC;INFR;PST;3;SG;POS;DECL
+g ö ç m e k # V;INFR;PRS;HAB;1;SG;NEG;DECL
+s e r p m e k # V;IND;PST;HAB;2;PL;NEG;DECL
+s e r p m e k # V;INFR;PST;PERF;2;SG;NEG;INTR
+g ö ç m e k # V;NEC;INFR;PST;1;PL;INTR;POS
+g ö ç m e k # V;IND;PST;2;PL;NEG;INTR
+g ö ç m e k # V;NEC;INFR;PST;2;PL;INTR;POS
+s e r p m e k # V;NEC;PST;2;SG;NEG;INTR
+b a k i r e # N;DAT;PL
+g ö ç m e k # V;NEC;INFR;PST;3;SG;INTR;POS
+y e r # N;DAT;PL;PSS2S
+d e ğ i ş m e k # V;IND;FUT;PROG;1;SG;POS;DECL
+s e r p m e k # V;IND;PST;PERF;1;SG;NEG;DECL
+g ö ç m e k # V;INFR;PRS;PROG;3;PL;NEG;INTR
+g ö ç m e k # V;INFR;PST;PRSP;3;PL;NEG;INTR
+k a t e g o r i # N;ACC;PL;PSS3S
+g ö ç m e k # V;INFR;PRS;PROG;3;PL;INTR;POS
+e r n e k # N;LOC;PL
+g ö ç m e k # V;NEC;PRS;1;PL;NEG;INTR
+g ö ç m e k # V;IND;PST;PROG;3;PL;NEG;INTR
+p e n i s # N;DAT;PL;PSS2P
+s ü z m e k # V;INFR;FUT;PROG;1;PL;NEG;INTR
+s e s t e ş # N;DAT;SG;PSS3S
+d e ğ i ş m e k # V;IND;FUT;PROG;3;PL;POS;DECL
+s ü z m e k # V;INFR;FUT;PRSP;1;PL;INTR;POS
+s e r p m e k # V;IND;PRS;PROG;2;SG;NEG;INTR
+g ö ç m e k # V;IND;PST;PERF;1;SG;NEG;INTR
+s ü z m e k # V;INFR;FUT;PROG;2;SG;INTR;POS
+t o p o l o j i # N;NOM;SG
+t o p o l o j i # N;DAT;SG;PSS3S
+s e r p m e k # V;NEC;PRS;2;PL;NEG;INTR
+d e ğ i ş m e k # V;INFR;FUT;HAB;2;SG;POS;DECL
+s ü z m e k # V;INFR;FUT;HAB;1;SG;POS;DECL
+y e r # N;LOC;PL
+y e r # N;NOM;PL
+g ö ç m e k # V;NEC;PST;1;SG;NEG;INTR
+d e ğ i ş m e k # V;IND;PST;PRSP;PROG;3;PL;POS;DECL
+s ü z m e k # V;IND;PST;HAB;PROG;2;SG;NEG;DECL
+ç i z g i # N;DAT;PL
+b a k i r e # N;NOM;PL;PSS2S
+p e n i s # N;LOC;SG;PSS2S
+g ö ç m e k # V;IND;PST;PRSP;1;SG;NEG;INTR
+g ö ç m e k # V;IND;PST;PRSP;1;PL;NEG;INTR
+b a k i r e # N;GEN;PL
+e r n e k # N;LOC;PL;PSS2P
+s e r p m e k # V;INFR;PST;1;SG;INTR;POS
+s e s t e ş # N;NOM;SG;PSS2S
+s ü z m e k # V;INFR;FUT;HAB;3;SG;INTR;POS
+b a k i r e # N;LGSPEC1;2P;PL;PRS
+h e n d e s e # N;DAT;PL;PSS2S
+d e ğ i ş m e k # V;IND;PST;HAB;PROG;1;SG;NEG;DECL
+p e n i s # N;LOC;SG;PSS3S
+b a k i r e # N;NOM;PL;PSS2P
+h e n d e s e # N;NOM;PL
+s ü z m e k # V;INFR;FUT;PERF;1;PL;INTR;POS
+e r n e k # N;DAT;SG;PSS2P
+h e n d e s e # N;DAT;PL;PSS3S
+g ö ç m e k # V;IND;PRS;PROG;1;SG;NEG;INTR
+b a k i r e # N;DAT;PL;PSS2P
+s ü z m e k # V;NEC;PST;PROG;1;PL;POS;DECL
+e r n e k # N;LOC;SG;PSS3S
+y e r # N;GEN;PL;PSS3S
+d e ğ i ş m e k # V;NEC;PST;PROG;2;PL;NEG;INTR
+e r n e k # N;GEN;SG;PSS2S
+ç i z g i # N;DAT;PL;PSS3S
+d e ğ i ş m e k # V;NEC;PRS;PROG;3;PL;INTR;POS
+b a k i r e # N;LGSPEC1;1P;PL;PRS
+h e n d e s e # N;NOM;PL;PSS2S
+b a k i r e # N;ABL;PL
+e r n e k # N;LOC;SG;PSS2S
+e r n e k # N;ABL;SG;PSS2S
+t o p o l o j i # N;LOC;PL;PSS2S
+d e ğ i ş m e k # V;IND;PST;HAB;PROG;3;SG;NEG;INTR
+m a k i n e # N;DAT;PL
+b a k i r e # N;NOM;PL;PSS3S
+h e n d e s e # N;GEN;PL
+t e c r i t # N;DAT;PL;PSS3S
+k a t e g o r i # N;DAT;PL;PSS1P
+s ü z m e k # V;INFR;FUT;PRSP;3;PL;NEG;DECL
+b a k i r e # N;ACC;PL;PSS3S
+b a k i r e # N;LGSPEC1;2S;PL;LGSPEC2
+y e r # N;ABL;PL;PSS2S
+y e r # N;NOM;SG;PSS3S
+s e r p m e k # V;INFR;LGSPEC1;PST;1;PL;INTR;POS
+p e n i s # N;GEN;SG;PSS2S
+b a k i r e # N;ABL;PL;PSS2S
+h e n d e s e # N;LOC;PL
+b a k i r e # N;ABL;PL;PSS3S
+y e r # N;ACC;PL;PSS2P
+ç i z g i # N;LGSPEC1;3P;PL;PRS
+e r n e k # N;ABL;SG;PSS3S
+d e ğ i ş m e k # V;INFR;FUT;HAB;3;PL;NEG;DECL
+s ü z m e k # V;IND;PRS;HAB;2;PL;INTR;POS
+s ü z m e k # V;NEC;PRS;PROG;1;SG;NEG;DECL
+h e n d e s e # N;LOC;PL;PSS3S
+s ü z m e k # V;INFR;PST;PRSP;1;PL;NEG;INTR
+t o p o l o j i # N;NOM;SG;PSS2P
+ç i z g i # N;ACC;PL;PSS3S
+s e s t e ş # N;DAT;PL;PSS1P
+h e n d e s e # N;LOC;PL;PSS2S
+d e ğ i ş m e k # V;NEC;INFR;PRS;PROG;3;PL;NEG;DECL
+y e r # N;LGSPEC1;2P;PL;PST
+k a t e g o r i # N;NOM;PL;PSS1P
+ç i z g i # N;ACC;PL
+h e n d e s e # N;ACC;PL
+d e ğ i ş m e k # V;NEC;PRS;PROG;3;PL;NEG;INTR
+b a k i r e # N;ACC;PL;PSS2P
+s e r p m e k # V;INFR;PRS;PROG;2;SG;NEG;INTR
+d e ğ i ş m e k # V;INFR;FUT;PERF;1;SG;INTR;POS
+b a k i r e # N;LOC;PL;PSS2P
+h e n d e s e # N;ABL;PL;PSS3S
+ç i z g i # N;NOM;PL;PSS3S
+y e r # N;LGSPEC1;1S;PL;PRS
+m a k i n e # N;DAT;PL;PSS2S
+h e n d e s e # N;GEN;PL;PSS3S
+h e n d e s e # N;ACC;PL;PSS3S
+b a k i r e # N;LGSPEC1;3P;PL;LGSPEC2
+d e ğ i ş m e k # V;NEC;INFR;PRS;PROG;3;PL;INTR;POS
+m a k i n e # N;DAT;PL;PSS3S
+b a k i r e # N;LGSPEC1;2P;PL;PST
+b a k i r e # N;LGSPEC1;3S;PL;LGSPEC2
+k e f a l e t # N;DAT;PL;PSS2S
+d e ğ i ş m e k # V;INFR;PST;PRSP;1;PL;NEG;DECL
+d e ğ i ş m e k # V;IND;PRS;HAB;3;SG;POS;DECL
+k a t e g o r i # N;ABL;PL;PSS1P
+s ü z m e k # V;NEC;PST;PROG;3;PL;INTR;POS
+k a t e g o r i # N;GEN;PL;PSS1P
+d e ğ i ş m e k # V;INFR;PST;3;PL;NEG;DECL
+d e ğ i ş m e k # V;INFR;PST;PRSP;1;SG;INTR;POS
+g ö ç m e k # V;IND;PST;PROG;2;PL;INTR;POS
+y e r # N;ACC;SG;PSS1P
+s ü z m e k # V;IND;PRS;HAB;2;SG;INTR;POS
+k e f a l e t # N;DAT;PL;PSS3S
+t o p o l o j i # N;DAT;SG
+ç i z g i # N;LOC;PL;PSS2S
+y e r # N;LGSPEC1;2S;PL;LGSPEC2
+b a k i r e # N;LGSPEC1;3S;SG;PRS
+k a t e g o r i # N;LOC;PL;PSS1P
+ç i z g i # N;LOC;PL
+ç i z g i # N;LGSPEC1;2P;PL;PST
+y e r # N;LGSPEC1;3P;PL;PST
+d e ğ i ş m e k # V;INFR;FUT;3;PL;POS;DECL
+ç i z g i # N;ABL;PL;PSS3S
+y e r # N;LGSPEC1;2P;PL;LGSPEC2
+s ü z m e k # V;IND;FUT;1;PL;INTR;POS
+ç i z g i # N;DAT;PL;PSS2P
+s e r p m e k # V;INFR;PRS;PROG;1;SG;NEG;INTR
+ç i z g i # N;ABL;PL;PSS2S
+s e r p m e k # V;INFR;PRS;PROG;1;SG;INTR;POS
+b a k i r e # N;LGSPEC1;2P;SG;PRS
+p e n i s # N;NOM;PL;PSS1P
+e r n e k # N;DAT;PL;PSS1P
+y e r # N;LGSPEC1;1S;PL;PST
+d e ğ i ş m e k # V;INFR;FUT;1;PL;POS;DECL
+t o p o l o j i # N;ABL;SG;PSS2S

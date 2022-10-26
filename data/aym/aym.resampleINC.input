@@ -1,0 +1,250 @@
+a n u   q a l l u # N;ACC
+a n u   q a l l u # N;ACC;PSS2S
+a n u   q a l l u # N;NOM;PSS2S
+a n u   q a l l u # N;GEN
+a n u   q a l l u # N;INTER
+a n u   q a l l u # N;ALL;PSS1S
+a n u   q a l l u # N;GEN;PSS2S
+a n u   q a l l u # N;ABL;PSS3S
+a n u   q a l l u # N;GEN;PSS1S
+a n u   q a l l u # N;NOM;PL
+l u l l u   c h ' u q i # N;ACC;PSS1PL
+l u l l u   c h ' u q i # N;ACC;PSS1S
+l u l l u   c h ' u q i # N;ACC;PSS2S
+a n u   q a l l u # N;COM;PSS1S
+a n u   q a l l u # N;EQTV;PSS1S
+a n u   q a l l u # N;COM;PSS1PL
+a n u   q a l l u # N;COM;PSS3S
+a n u   q a l l u # N;ACC;PL;PSS2S
+a n u   q a l l u # N;PRP
+a n u   q a l l u # N;ACC;PL;PSS1PL
+l u l l u   c h ' u q i # N;PROPR
+l u l l u   c h ' u q i # N;GEN
+a n u   q a l l u # N;IN+ESS;PSS2S
+a n u   q a l l u # N;IN+ESS;PSS1S
+a n u   q a l l u # N;INTER;PSS3S
+a n u   q a l l u # N;INTER;PSS1PL
+a n u   q a l l u # N;BEN;PSS1PL
+a n u   q a l l u # N;NOM;PL;PSS1PL
+a n u   q a l l u # N;TERM;PSS2S
+a n u   q a l l u # N;ABL;PL
+a n u   q a l l u # N;VERS;PSS3S
+l u l l u   c h ' u q i # N;COM
+a n u   q a l l u # N;EQTV;PL
+l u l l u   c h ' u q i # N;ALL;PSS1PL
+l u l l u   c h ' u q i # N;IN+ESS
+l u l l u   c h ' u q i # N;ABL;PSS1S
+a n u   q a l l u # N;ALL;PL;PSS3S
+a n u   q a l l u # N;PROPR;PL;PSS2S
+a n u   q a l l u # N;INTER;PL
+a n u   q a l l u # N;TERM;PL;PSS1PL
+a n u   q a l l u # N;GEN;PL;PSS1S
+a n u   q a l l u # N;VERS;PL
+a n u   q a l l u # N;ABL;PL;PSS1PL
+a n u   q a l l u # N;GEN;PL;PSS3S
+a n u   q a l l u # N;GEN;PL;PSS1PL
+l u l l u   c h ' u q i # N;ACC;PL;PSS3S
+l u l l u   c h ' u q i # N;PRP
+l u l l u   c h ' u q i # N;ACC;PL;PSS1S
+l u l l u   c h ' u q i # N;EQTV;PSS3S
+l u l l u   c h ' u q i # N;COM;PSS2S
+a n u   q a l l u # N;EQTV;PL;PSS1S
+a n u   q a l l u # N;EQTV;PL;PSS2S
+l u l l u   c h ' u q i # N;INTER;PSS3S
+l u l l u   c h ' u q i # N;PROPR;PL
+l u l l u   c h ' u q i # N;BEN;PSS1S
+l u l l u   c h ' u q i # N;IN+ESS;PSS1PL
+l u l l u   c h ' u q i # N;TERM;PSS2S
+a n u   q a l l u # N;INTER;PL;PSS1S
+a n u   q a l l u # N;TERM;PL;PSS3S
+a n u   q a l l u # N;TERM;PL;PSS2S
+l u l l u   c h ' u q i # N;EQTV;PL
+a n u   q a l l u # N;PRP;PL;PSS1PL
+l u l l u   c h ' u q i # N;ALL;PL;PSS1PL
+l u l l u   c h ' u q i # N;ALL;PL;PSS1S
+l u l l u   c h ' u q i # N;EQTV;PL;PSS3S
+l u l l u   c h ' u q i # N;TERM;PL;PSS1S
+l u l l u   c h ' u q i # N;INTER;PL;PSS3S
+i m x a # V;PST+RCT;1;SG;AC3
+a n a t a # N;ACC
+q i r a r i # N;ACC
+m u n a # V;PRS/PST+IMMED;1;SG;AC3
+s i k i l i # N;ACC
+j u y k h u # N;ACC
+a n a t a # V;PRS/PST+IMMED;1;SG;AC3
+y a t i # V;PST+RCT;2;SG;AC3
+p a r a # N;ACC;PSS1S
+p a r a # N;ACC;PSS2S
+p a r a # N;ACC;PSS3S
+i q t ' a # V;PRS/PST+IMMED;1;SG;AC3
+q i n t u # N;ACC;PSS1PL
+p u l u # N;ACC;PSS1S
+a l k a t a # V;PRS/PST+IMMED;3;SG;AC3
+p u l u # N;ACC;PSS3S
+i q t a s i # V;PRS/PST+IMMED;3;SG;AC3
+y a t i # V;FUT;1;SG;AC3
+j a r a # V;FUT;1;SG;AC3
+j a r a # V;PRS/PST+IMMED;3;SG;AC1
+y a t i # V;PRS/PST+IMMED;3;SG;AC1
+a j s u y a # V;PRS/PST+IMMED;3;SG;AC3
+p ' i y a r a # V;PRS/PST+IMMED;1;SG;AC3
+p ' i y a r a # V;PRS/PST+IMMED;3;SG;AC3
+q i r a r i # N;ACC;PSS2S
+i q t ' a # V;PRS/PST+IMMED;2;SG;AC3
+p u l u # N;PROPR
+a l k a t a # V;PST+RCT;2;SG;AC3
+l a q a t u # N;NOM
+s i k i l i # N;ACC;PSS2S
+q ' u p s u # V;PST+RCT;1;SG;AC3
+m u n a # V;IMP;2;SG;AC1
+m u n a # V.MSDR
+i m x a # V;FUT;3;SG;AC3
+i m x a # V;PRS/PST+IMMED;2;SG;AC1
+a n a t a # N;NOM;PSS3S
+j a y s a # V;FUT;1;SG;AC3
+j a y s a # V;PRS/PST+IMMED;1+INCL;AC3
+y a t i # V;FUT;3;SG;AC3
+y a t i # V;PRS/PST+IMMED;2;SG;AC1
+p a n t a r a # V;PRS/PST+IMMED;3;SG;AC3
+i q t ' a # V;PRS/PST+IMMED;1+INCL;AC3
+q i r a r i # N;NOM;PSS1S
+q i r a r i # N;NOM;PSS1PL
+a l k a t a # V;FUT;1;SG;AC3
+a l k a t a # V;CF;PRS/PST+IMMED;1+INCL;AC3
+a l k a t a # V;PRS/PST+IMMED;1+INCL;AC3
+p a l l t i r i # N;NOM
+i q t a s i # V;PRS/PST+IMMED;3;SG;AC1
+i q t ' a # V;FUT;1;SG;AC3
+i q t a s i # V;IMP;2;SG;AC3
+s i k i l i # N;ABL
+q h u p i r a # V;PST+RCT;1;SG;AC3
+c h ' i q i y a # V;PRS/PST+IMMED;3;SG;AC3
+c h ' i q i y a # V;PST+RCT;1;SG;AC3
+c h ' u s a # N;ACC;PSS1S
+c h ' u s a # N;ACC;PSS3S
+q ' a c h a s i # V;PRS/PST+IMMED;3;SG;AC3
+i n a m u k u # V;PRS/PST+IMMED;2;SG;AC3
+q ' a c h a s i # V;PST+RCT;1;SG;AC3
+c h ' u s a # V;PRS/PST+IMMED;3;SG;AC1
+k ' u s i l l o # N;NOM
+t u r k a q a # V;PST+RCT;2;SG;AC3
+m u n a # V;PRS/PST+IMMED;2;SG;AC1
+i n k u r a # V;PST+RCT;3;SG;AC3
+i n k u r a # V;PST+RCT;2;SG;AC3
+p a r a # N;ACC;PL
+j a r a # V;FUT;2;SG;AC3
+j a y s a # V;CF;PRS/PST+IMMED;1+INCL;AC3
+i q t a s i # V;FUT;1;SG;AC3
+a n a t a # V.MSDR
+j a y s a # V;PRS/PST+IMMED;3;SG;AC1+INCL
+p a r a # N;INTER
+y a t i y i r i # N;NOM
+a p t h a p i # V;PST+RCT;2;SG;AC3
+p a n t a r a # V;PST+RCT;2;SG;AC3
+p a n t a r a # V;PST+RCT;3;SG;AC3
+q a w i t a # N;PROPR
+a j s u y a # V;PRS/PST+IMMED;3;SG;AC1
+p ' i y a r a # V;PRS/PST+IMMED;1+INCL;AC3
+p ' i y a r a # V;FUT;3;SG;AC3
+a j s u y a # V;PRS/PST+IMMED;1+INCL;AC3
+p ' i y a r a # V;PRS/PST+IMMED;3;SG;AC1
+a l l t h a p i # V;PRS/PST+IMMED;3;SG;AC3
+a j s u y a # V.MSDR
+l a k j a # V;IMP;3;SG;AC2;FORM2
+q i r a r i # N;COM
+i q t ' a # V;PRS/PST+IMMED;3;SG;AC2
+i q t ' a # V;PRS/PST+IMMED;3;SG;AC1+INCL
+l a k j a # V;PST+RMT;1;SG;AC3
+p u l u # N;ALL;PSS1S
+p u l u # N;GEN;PSS1S
+p u l u # N;ALL;PSS1PL
+a l k a t a # V;PRS/PST+IMMED;2;SG;AC1
+p u l u # N;ABL;PSS1S
+a l k a t a # V;PRS/PST+IMMED;3;SG;AC2
+p u l u # N;ABL;PSS2S
+p a l l t i r i # N;ACC;PSS1PL
+j a l a k a t a # V;PRS/PST+IMMED;2;SG;AC3
+p a l l t i r i # N;ACC;PSS1S
+i q t a s i # V;PRS/PST+IMMED;3;SG;AC2
+q h u p i r a # V;PST+RCT;3;SG;AC3
+s i k i l i # N;COM
+c h ' u s a # N;NOM;PSS1PL
+c h ' u s a # V;FUT;1;SG;AC3
+c h ' u s a # V.MSDR
+i n a m u k u # V;PRS/PST+IMMED;1+INCL;AC3
+q ' u c h u # V;CF;PRS/PST+IMMED;1+INCL;AC3
+k a l l k a t a # V;PST+RCT;2;SG;AC3
+m u n a # V;IMP;3;SG;AC1
+a c h j a y a # V.MSDR
+i n k u r a # V.MSDR
+m u n a # V;FUT;1+INCL;AC3
+q ' u c h u # V;FUT;1;SG;AC3
+q ' u c h u # N;NOM;PSS3S
+q ' u c h u # V;FUT;3;SG;AC3
+a l k a t a # V;PRS/PST+IMMED;3;SG;AC1+INCL
+q ' u c h u # N;NOM;PSS1S
+q ' u c h u # V;IMP;2;SG;AC1
+j u y k h u # N;PROPR
+j u y k h u # N;ABL
+j u y k h u # N;NOM;PSS1S
+j u y k h u # N;ALL
+a n a t a # N;IN+ESS
+p a r a # N;ALL;PSS1S
+j a m p ' a t i # V;PST+RCT;2;SG;AC3
+a n a t a # N;TERM
+i m x a # V;CF;PRS/PST+IMMED;2;SG;AC1
+a n a t a # V;PRS/PST+IMMED;1;SG;AC2
+a n a t a # V;FUT;1+INCL;AC3
+p a r a # N;TERM
+a n a t a # N;ALL;PSS1S
+p u l u # N;IN+ESS
+a n a t a # N;INTER
+y a t i y i r i # N;ACC;PSS1S
+p a n t a r a # V;CF;PRS/PST+IMMED;1+INCL;AC3
+p a n t a r a # V;IMP;2;SG;AC1
+p a n t a r a # V;FUT;1;SG;AC3
+p a n t a r a # V;PRS/PST+IMMED;1+INCL;AC3
+l a k j a # V;CF;PST;2;SG;AC3;FORM2
+p a l l t i r i # N;ACC;PSS3S
+q a w i t a # N;EQTV
+p ' i y a r a # V;FUT;3;SG;AC2
+a j s u y a # V;FUT;3;SG;AC2
+q i r a r i # N;BEN
+q i r a r i # N;TERM
+q i r a r i # N;ABL;PSS1S
+t u r k a q a # V;IMP;2;SG;AC1
+a l k a t a # V;FUT;1;SG;AC2
+p u l u # N;EQTV;PSS2S
+q i n t u # N;ALL;PSS2S
+a l k a t a # V;FUT;2;SG;AC1
+i q t ' a # V;FUT;1;SG;AC2
+l a q a t u # N;ACC;PL
+a l k a t a # V;IMP;3;SG;AC2;FORM2
+q u r p a n i # N;PROPR
+i q t ' a # V;FUT;1+INCL;AC3
+a l k a t a # V;FUT;3;SG;AC1
+q i n t u # N;ABL;PSS2S
+t u r k a q a # V;CF;PRS/PST+IMMED;1+INCL;AC3
+s i k i l i # N;ABL;PSS1S
+m u n a # V;FUT;3;SG;AC1+INCL
+i q t a s i # V;FUT;1;SG;AC2
+q h u p i r a # V;PRS/PST+IMMED;1+INCL;AC3
+q h u p i r a # V;PRS/PST+IMMED;3;SG;AC1
+q i r a r i # N;PROPR;PSS1PL
+k a t u s x a # V;FUT;1;SG;AC3
+c h ' u s a # V;PRS/PST+IMMED;1;SG;AC2
+i n a m u k u # V;IMP;2;SG;AC3
+c h ' u s a # V;PRS/PST+IMMED;2;SG;AC1
+c h ' u s a # V;FUT;3;SG;AC2
+t u m a y k u # N;NOM;PSS1S
+q i n t u # N;ABL;PSS3S
+q ' a c h a s i # V;PRS/PST+IMMED;1+INCL;AC3
+t u r k a q a # V;PRS/PST+IMMED;1;SG;AC2
+c h u q i l l a # N;ABL
+q ' u c h u # N;EQTV
+s u q ' u s a # N;NOM;PSS2S
+q ' u p s u # V;PRS/PST+IMMED;2;SG;AC1
+q ' u p s u # V;CF;PRS/PST+IMMED;3;SG;AC3
+q ' u p s u # V;FUT;3;SG;AC2
+m u n a # V;CF;PST;1;SG;AC3
+i n k u r a # V;FUT;3;SG;AC2
